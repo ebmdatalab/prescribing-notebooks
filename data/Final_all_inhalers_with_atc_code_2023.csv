@@ -131,7 +131,7 @@ Combi_1,R03AK06,0302000N0AAAXAX,Fluticasone propionate 100microg/Salmeterol 50mi
 Combi_2,R03AL06,0301040X0AAAAAA,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln&dev,SMI,17751
 Anticholinergic,R03BB05,0301020R0AAAAAA,Aclidinium bromide 375micrograms/dose dry powder inhaler,DPI,17433
 Combi_1,R03AK10,0302000V0AAAAAA,Fluticasone furoate 184microg/Vilanterol 22microg/dose,DPI,16308
-Other,n/a,0302000W0BBAAAA,Enerzair Breezhaler 114microg / 46microg / 136microg/dose,DPI,15683
+Combi_2,R03AL12,0302000W0BBAAAA,Enerzair Breezhaler 114microg / 46microg / 136microg/dose,DPI,15683
 ICS,R03BA05,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,MDI,15560
 Anticholinergic,R03BB07,0301020T0AAAAAA,Umeclidinium bromide 65micrograms/dose dry powder inhaler,DPI,15420
 LABA,R03AC12,0301011U0BBAEAE,Serevent 50micrograms/dose Accuhaler,DPI,14972
@@ -218,7 +218,7 @@ LABA,R03AC19,0301011Z0AAABAB,Olodaterol 2.5micrograms/dose inhalation soln cart 
 Anticholinergic,R03BB01,0301020I0BIAAAN,Inhalvent 20micrograms/dose inhaler,MDI,136
 Other,R03BC01,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,MDI,88
 Combi_1,R03AK14,0302000X0AAAAAA,Indacaterol 125microg/Mometasone 62.5microg/dose pdr caps,DPI,83
-Other,n/a,0302000W0AAAAAA,Generic Enerzair Breezhaler 114/46/136microg inh caps + dev,DPI,49
+Combi_2,R03AL12,0302000W0AAAAAA,Generic Enerzair Breezhaler 114/46/136microg inh caps + dev,DPI,49
 Combi_1,R03AK06,0302000N0BQAABR,Seffalair Spiromax 12.75microg / 100microg/dose dry pdr inh,DPI,38
 Combi_1,R03AK08,0302000C0BWABBZ,Bibecfo 200micrograms/dose / 6micrograms/dose inhaler,MDI,37
 Combi_1,R03AK14,0302000X0AAABAB,Indacaterol 125microg/Mometasone 127.5microg/dose pdr caps,DPI,35
