@@ -1,0 +1,167 @@
+vmp_code,vmp_name,bnf_code,type
+39113611000001102,Salbutamol 100micrograms/dose inhaler CFC free,0301011R0AAAPAP,MDI
+36049211000001106,Ipratropium bromide 20micrograms/dose breath actuated inhaler,0301020I0AAAGAG,MDI
+36049311000001103,Ipratropium bromide 20micrograms/dose inhaler,0301020I0AAAAAA,MDI
+39110811000001105,Salmeterol 25micrograms/dose inhaler,0301011U0AAACAC,MDI
+35926711000001101,Sodium cromoglicate 5mg/dose inhaler,0303010Q0AAABAB,MDI
+35926611000001105,Sodium cromoglicate 5mg/dose breath actuated inhaler,0303010Q0AAAHAH,MDI
+36049411000001105,Ipratropium bromide 40micrograms/dose inhaler,0301020I0AAADAD,MDI
+39110911000001100,Fluticasone 50micrograms/dose inhaler CFC free,0302000N0AABHBH,MDI
+39111011000001108,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,0302000N0AABEBE,MDI
+39111111000001109,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,0302000N0AABFBF,MDI
+39111211000001103,Fluticasone 125micrograms/dose inhaler CFC free,0302000N0AABABA,MDI
+39111311000001106,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,0302000N0AABGBG,MDI
+39111411000001104,Fluticasone 250micrograms/dose inhaler CFC free,0302000N0AABCBC,MDI
+36066611000001106,Fenoterol 100micrograms/dose / Ipratropium 40micrograms/dose inhaler,0301040M0AAAAAA,MDI
+35912511000001101,Budesonide 200micrograms/dose inhaler,0302000K0AAADAD,MDI
+36022911000001105,Oxitropium bromide 100micrograms/dose inhaler,0301020P0AAAAAA,MDI
+36022811000001100,Oxitropium bromide 100micrograms/dose breath actuated inhaler,0301020P0AAABAB,MDI
+36066711000001102,Fenoterol 100micrograms/dose / Ipratropium bromide 40micrograms/dose breath actuated inhaler,0301040M0AAACAC,MDI
+35936711000001103,Salbutamol 200microgram inhalation powder blisters with device,0301011R0AAAIAI,DPI
+35938011000001101,Salmeterol 50microgram inhalation powder blisters,0301011U0AAABAB,DPI
+35936911000001101,Salbutamol 400microgram inhalation powder blisters with device,0301011R0AAAJAJ,DPI
+35937811000001108,Salmeterol 50microgram inhalation powder blisters with device,0301011U0AAAAAA,DPI
+35936611000001107,Salbutamol 200microgram inhalation powder blisters,0301011R0AAAKAK,DPI
+35907611000001101,Beclometasone 100microgram inhalation powder blisters,0302000C0AAALAL,DPI
+35907711000001105,Beclometasone 100microgram inhalation powder blisters with device,0302000C0AAAGAG,DPI
+35936811000001106,Salbutamol 400microgram inhalation powder blisters,0301011R0AAALAL,DPI
+35908311000001107,Beclometasone 200microgram inhalation powder blisters with device,0302000C0AAAHAH,DPI
+36059911000001104,Fluticasone propionate 50microgram inhalation powder blisters with device,0302000N0AAAAAA,DPI
+36059311000001100,Fluticasone propionate 100microgram inhalation powder blisters with device,0302000N0AAACAC,DPI
+35908211000001104,Beclometasone 200microgram inhalation powder blisters,0302000C0AAAKAK,DPI
+36059211000001108,Fluticasone propionate 100microgram inhalation powder blisters,0302000N0AAADAD,DPI
+36059811000001109,Fluticasone propionate 50microgram inhalation powder blisters,0302000N0AAABAB,DPI
+35909011000001104,Beclometasone 400microgram inhalation powder blisters with device,0302000C0AAAJAJ,DPI
+36059511000001106,Fluticasone propionate 250microgram inhalation powder blisters,0302000N0AAAFAF,DPI
+35908911000001108,Beclometasone 400microgram inhalation powder blisters,0302000C0AAAQAQ,DPI
+36059411000001107,Fluticasone propionate 250microgram inhalation powder blisters with device,0302000N0AAAEAE,DPI
+36059711000001101,Fluticasone propionate 500microgram inhalation powder blisters with device,0302000N0AAAPAP,DPI
+36059611000001105,Fluticasone propionate 500microgram inhalation powder blisters,0302000N0AAAQAQ,DPI
+35909411000001108,Beclometasone 50micrograms/dose dry powder inhaler,0302000C0AABIBI,DPI
+35908011000001109,Beclometasone 100micrograms/dose dry powder inhaler,0302000C0AABJBJ,DPI
+35912411000001100,Budesonide 200micrograms/dose dry powder inhaler,0302000K0AAAGAG,DPI
+35912111000001105,Budesonide 100micrograms/dose dry powder inhaler,0302000K0AAAKAK,DPI
+35908411000001100,Beclometasone 200micrograms/dose dry powder inhaler,0302000C0AABUBU,DPI
+35908711000001106,Beclometasone 250micrograms/dose dry powder inhaler,0302000C0AABKBK,DPI
+35909111000001103,Beclometasone 400micrograms/dose dry powder inhaler,0302000C0AABSBS,DPI
+35909511000001107,Beclometasone 50micrograms/dose inhaler,0302000C0AAAAAA,MDI
+35908111000001105,Beclometasone 100micrograms/dose inhaler CFC free,0302000C0AABFBF,MDI
+35909611000001106,Beclometasone 50micrograms/dose inhaler CFC free,0302000C0AABEBE,MDI
+35909311000001101,Beclometasone 50micrograms/dose breath actuated inhaler CFC free,0302000C0AABGBG,MDI
+35907911000001107,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,0302000C0AABHBH,MDI
+42292311000001106,Beclometasone 100micrograms/dose inhaler,0302000C0AAABAB,MDI
+35908511000001101,Beclometasone 200micrograms/dose inhaler,0302000C0AAARAR,MDI
+35908811000001103,Beclometasone 250micrograms/dose inhaler,0302000C0AAACAC,MDI
+35907811000001102,Beclometasone 100micrograms/dose breath actuated inhaler,0302000C0AAATAT,MDI
+35908611000001102,Beclometasone 250micrograms/dose breath actuated inhaler,0302000C0AAAUAU,MDI
+38897911000001106,Fluticasone propionate 50micrograms/dose dry powder inhaler,0302000N0AAARAR,DPI
+38897811000001101,Fluticasone propionate 100micrograms/dose dry powder inhaler,0302000N0AAASAS,DPI
+36565411000001101,Fluticasone propionate 250micrograms/dose dry powder inhaler,0302000N0AAATAT,DPI
+38897711000001109,Fluticasone propionate 500micrograms/dose dry powder inhaler,0302000N0AAAUAU,DPI
+35937211000001107,Salbutamol 95micrograms/dose dry powder inhaler,0301011R0AAAFAF,DPI
+38897611000001100,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,0302000N0AAAXAX,DPI
+38897511000001104,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,0302000N0AAAYAY,DPI
+38897411000001103,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,0302000N0AAAZAZ,DPI
+39695511000001104,Beclometasone 100microgram inhalation powder capsules,0302000C0AAAEAE,DPI
+39695611000001100,Beclometasone 200microgram inhalation powder capsules,0302000C0AAAFAF,DPI
+39695711000001109,Beclometasone 400microgram inhalation powder capsules,0302000C0AAAIAI,DPI
+3432911000001109,Budesonide 200microgram inhalation powder capsules,0302000K0AAARAR,DPI
+3433011000001101,Budesonide 400microgram inhalation powder capsules,0302000K0AAASAS,DPI
+35369511000001103,Salbutamol 200microgram / Beclometasone 100microgram inhalation powder capsules,0302000C0AABLBL,DPI
+39696311000001100,Salbutamol 400microgram / Beclometasone 200microgram inhalation powder capsules,0302000C0AAAPAP,DPI
+39712711000001109,Sodium cromoglicate 20mg inhalation powder capsules,0303010Q0AAADAD,DPI
+12626211000001108,Formoterol 12microgram inhalation powder capsules with device,0301011E0AAAAAA,DPI
+39709711000001100,Salbutamol 200microgram inhalation powder capsules,0301011R0AAAVAV,DPI
+39112711000001103,Salbutamol 100micrograms/dose breath actuated inhaler CFC free,0301011R0AABUBU,MDI
+39709811000001108,Salbutamol 400microgram inhalation powder capsules,0301011R0AAAWAW,DPI
+35916311000001106,Terbutaline 500micrograms/dose dry powder inhaler,0301011V0AABBBB,DPI
+35912711000001106,Budesonide 400micrograms/dose dry powder inhaler,0302000K0AAAHAH,DPI
+35926311000001100,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler,0303010Q0AAAIAI,MDI
+39717411000001100,Ipratropium bromide 40microgram inhalation powder capsules,0301020I0AAAIAI,DPI
+39717311000001107,Ipratropium bromide 40microgram inhalation powder capsules with device,0301020I0AAAHAH,DPI
+35912811000001103,Budesonide 50micrograms/dose inhaler,0302000K0AAAAAA,MDI
+39112911000001101,Formoterol 6micrograms/dose dry powder inhaler,0301011E0AAABAB,DPI
+39113011000001109,Formoterol 12micrograms/dose dry powder inhaler,0301011E0AAACAC,DPI
+39113111000001105,Terbutaline 250micrograms/dose inhaler,0301011V0AAAAAA,MDI
+35916111000001109,Terbutaline 250micrograms/dose inhaler with spacer,0301011V0AAAFAF,MDI
+35936211000001105,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler,0302000C0AAANAN,MDI
+35936411000001109,Salbutamol 100micrograms/dose breath actuated inhaler,0301011R0AAADAD,MDI
+35912011000001109,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,0302000K0AAALAL,DPI
+38896811000001103,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,0302000K0AAAMAM,DPI
+35936311000001102,Salbutamol 100micrograms/dose / Ipratropium 20micrograms/dose inhaler,0301040R0AAAAAA,MDI
+9479011000001103,Tiotropium bromide 18microgram inhalation powder capsules with device,0301020Q0AAAAAA,DPI
+9478911000001107,Tiotropium bromide 18microgram inhalation powder capsules,0301020Q0AAABAB,DPI
+39113211000001104,Salmeterol 50micrograms/dose dry powder inhaler,0301011U0AAAEAE,DPI
+39113311000001107,Salbutamol 200micrograms/dose dry powder inhaler,0301011R0AAAQAQ,DPI
+35936511000001108,Salbutamol 100micrograms/dose inhaler,0301011R0AAAAAA,MDI
+35909211000001109,Beclometasone 50micrograms/dose breath actuated inhaler,0302000C0AAASAS,MDI
+38895611000001107,Mometasone 400micrograms/dose dry powder inhaler,0302000R0AAACAC,DPI
+38895411000001109,Mometasone 200micrograms/dose dry powder inhaler,0302000R0AAAAAA,DPI
+42296711000001109,Nedocromil 2mg/dose inhaler,0303010J0AAABAB,MDI
+4161311000001109,Sodium cromoglicate 5mg/dose inhaler with spacer,0303010Q0AAAJAJ,MDI
+36030411000001101,Nedocromil 2mg/dose inhaler with spacer,0303010J0AAACAC,MDI
+35926411000001107,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler with spacer,0303010Q0AAAKAK,MDI
+4378111000001103,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,0302000K0AAAUAU,DPI
+4558411000001107,Fenoterol 200micrograms/dose inhaler,0301011F0AAAAAA,MDI
+36059111000001102,Fluticasone 25micrograms/dose inhaler,0302000N0AAAGAG,MDI
+4864911000001104,Budesonide 200micrograms/dose inhaler with spacer,0302000K0AAATAT,MDI
+38894511000001107,Ipratropium bromide 20micrograms/dose inhaler CFC free,0301020I0AAANAN,MDI
+8024611000001102,Budesonide 200micrograms/dose dry powder inhalation cartridge with device,0302000K0AAAVAV,DPI
+9004511000001107,Ciclesonide 80micrograms/dose inhaler CFC free,0302000U0AAAAAA,MDI
+9004411000001108,Ciclesonide 160micrograms/dose inhaler CFC free,0302000U0AAABAB,MDI
+9117811000001107,Budesonide 200micrograms/dose dry powder inhalation cartridge,0302000K0AAAWAW,DPI
+9207411000001106,Salbutamol 100micrograms/dose dry powder inhaler,0301011R0AABZBZ,DPI
+9652711000001107,Formoterol 12micrograms/dose inhaler CFC free,0301011E0AAADAD,MDI
+9720211000001107,Nedocromil 2mg/dose inhaler CFC free,0303010J0AAADAD,MDI
+10075611000001101,Salmeterol 25micrograms/dose inhaler CFC free,0301011U0AAAHAH,MDI
+10514511000001106,Adrenaline (base) 220micrograms/dose inhaler,0301012A0AAABAB,MDI
+10525011000001107,Adrenaline (base) 220micrograms/dose inhaler refill,0301012A0AAACAC,MDI
+10621011000001101,Beclometasone 200micrograms/dose inhaler CFC free,0302000C0AABVBV,MDI
+10621111000001100,Beclometasone 250micrograms/dose inhaler CFC free,0302000C0AABWBW,MDI
+12197411000001102,Tiotropium bromide 2.5micrograms/dose solution for inhalation cartridge with device CFC free,0301020Q0AAACAC,SMI
+12911011000001100,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,0302000C0AABXBX,MDI
+13566211000001103,Salbutamol 100micrograms/dose dry powder inhalation cartridge with device,0301011R0AACBCB,DPI
+13566111000001109,Salbutamol 100micrograms/dose dry powder inhalation cartridge,0301011R0AACCCC,DPI
+13801911000001104,Sodium cromoglicate 5mg/dose inhaler CFC free,0303010Q0AAANAN,MDI
+14959511000001107,Budesonide 100micrograms/dose inhaler CFC free,0302000K0AAAZAZ,MDI
+15374611000001106,Budesonide 200micrograms/dose inhaler CFC free,0302000K0AABABA,MDI
+17313811000001104,Indacaterol 300microgram inhalation powder capsules with device,0301011X0AAABAB,DPI
+17313711000001107,Indacaterol 150microgram inhalation powder capsules with device,0301011X0AAAAAA,DPI
+20515111000001102,Mannitol 40mg inhalation powder capsules with two devices,0307000R0AAAAAA,DPI
+38893611000001108,Aclidinium bromide 375micrograms/dose dry powder inhaler,0301020R0AAAAAA,DPI
+21113711000001102,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,0302000N0AABJBJ,MDI
+21113811000001105,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free,0302000N0AABKBK,MDI
+21113911000001100,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,0302000N0AABLBL,MDI
+21496211000001102,Glycopyrronium bromide 55microgram inhalation powder capsules with device,0301020S0AAAAAA,DPI
+23661311000001105,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,0302000V0AAAAAA,DPI
+23661411000001103,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,0302000V0AAABAB,DPI
+24670111000001108,Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free,0301011Z0AAAAAA,SMI
+24645511000001105,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,0301040W0AAAAAA,DPI
+26148711000001101,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,0302000C0AABYBY,DPI
+27890611000001109,Umeclidinium bromide 65micrograms/dose dry powder inhaler,0301020T0AAAAAA,DPI
+28049611000001104,Indacaterol 85micrograms/dose / Glycopyrronium bromide 54micrograms/dose inhalation powder capsules with device,0301040Y0AAAAAA,DPI
+28365011000001100,Aclidinium bromide 396micrograms/dose / Formoterol 11.8micrograms/dose dry powder inhaler,0301040V0AAAAAA,DPI
+28422511000001101,Fenoterol 50micrograms/dose / Ipratropium bromide 20micrograms/dose inhaler CFC free,0301040M0AAADAD,MDI
+29987211000001108,Tiotropium bromide 2.5micrograms/dose / Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free,0301040X0AAAAAA,SMI
+31087511000001105,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,0302000C0AACACA,DPI
+31087411000001106,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,0302000C0AABZBZ,MDI
+32960711000001105,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,0302000K0AABBBB,MDI
+33596311000001107,Tiotropium bromide 10microgram inhalation powder capsules with device,0301020Q0AAADAD,DPI
+34683311000001106,Generic Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler CFC free,0302000AAAAAAAA,MDI
+34955111000001103,Generic Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler,0302000Z0AAAAAA,DPI
+35647511000001107,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free,0302000N0AABPBP,MDI
+35647611000001106,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free,0302000N0AABQBQ,MDI
+37692711000001105,Tiotropium bromide 2.5micrograms/dose inhalation solution cartridge CFC free,0301020Q0AAAEAE,SMI
+37692511000001100,Tiotropium bromide 2.5micrograms/dose / Olodaterol 2.5micrograms/dose inhalation solution cartridge CFC free,0301040X0AAABAB,SMI
+37692311000001106,Olodaterol 2.5micrograms/dose inhalation solution cartridge CFC free,0301011Z0AAABAB,SMI
+39133611000001108,Budesonide 100micrograms/dose / Formoterol 3micrograms/dose inhaler CFC free,0302000K0AABCBC,MDI
+39116511000001109,Indacaterol 125micrograms/dose / Mometasone 62.5micrograms/dose inhalation powder capsules with device,0302000X0AAAAAA,DPI
+39116311000001103,Indacaterol 125micrograms/dose / Mometasone 127.5micrograms/dose inhalation powder capsules with device,0302000X0AAABAB,DPI
+39116411000001105,Indacaterol 125micrograms/dose / Mometasone 260micrograms/dose inhalation powder capsules with device,0302000X0AAACAC,DPI
+39134511000001107,Generic Enerzair Breezhaler 114micrograms/dose / 46micrograms/dose / 136micrograms/dose inhalation powder capsules with device,0302000W0AAAAAA,DPI
+39343511000001103,Generic Trixeo Aerosphere 5micrograms/dose / 7.2micrograms/dose / 160micrograms/dose inhaler CFC free,0302000Y0AAAAAA,MDI
+39343611000001104,Glycopyrronium 7.2micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,0301040AAAAAAAA,MDI
+40087411000001104,Generic Trimbow NEXThaler 88micrograms/dose / 5micrograms/dose / 9micrograms/dose dry powder inhaler,0302000AAAAACAC,DPI
+40455811000001109,Fluticasone propionate 202micrograms/dose / Salmeterol 12.75micrograms/dose dry powder inhaler,0302000N0AABSBS,DPI
+40455711000001101,Fluticasone propionate 100micrograms/dose / Salmeterol 12.75micrograms/dose dry powder inhaler,0302000N0AABRBR,DPI
+40766811000001104,Generic Trimbow 172micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler CFC free,0302000AAAAABAB,MDI
