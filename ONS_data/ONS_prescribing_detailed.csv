@@ -1,0 +1,258 @@
+bnf_code,bnf_name,items,actual_cost,formulation_descr
+0913011W0BBABAB,Fortisip Compact Protein liquid (9 flavours),263892,24216443.823479995,liquidfood.oral
+0913011V0BCAAAC,Ensure Compact liquid (4 flavours),213559,15393873.365939995,liquidfood.gastroenteral
+0913011V0BCAAAC,Ensure Compact liquid (4 flavours),213559,15393873.365939995,liquidfood.oral
+0913011V0BDAAAD,Fortisip Compact liquid (8 flavours),258630,15243594.4966,liquidfood.oral
+0913011N0BEAAAA,Ensure Plus milkshake style liquid (9 flavours),249111,10700757.239639997,liquidfood.gastroenteral
+0913011N0BEAAAA,Ensure Plus milkshake style liquid (9 flavours),249111,10700757.239639997,liquidfood.oral
+0913011N0BFAAAG,Fortisip Bottle (5 flavours),206034,9416011.76763,liquidfood.oral
+0913011S0BDAAAC,Ensure TwoCal liquid (4 flavours),32800,5631090.803500002,liquidfood.gastroenteral
+0913011S0BDAAAC,Ensure TwoCal liquid (4 flavours),32800,5631090.803500002,liquidfood.oral
+0913011M0BEABAA,Fortijuce liquid (5 flavours),99160,5367340.665280001,liquidfood.oral
+0913011S0BEAAAD,Fortisip 2kcal liquid (5 flavours),45551,4799355.097819995,liquidfood.oral
+0913011M0BDAAAB,Ensure Plus Juce liquid (6 flavours),54039,4315096.489439999,liquidfood.gastroenteral
+0913011M0BDAAAB,Ensure Plus Juce liquid (6 flavours),54039,4315096.489439999,liquidfood.oral
+0913011S0BFAAAE,Fresubin 2kcal drink (6 flavours),55827,4047563.0749400007,liquidfood.oral
+0913011T0BBABAA,Fortisip Compact Fibre liquid (3 flavours),24169,3290976.87269,liquidfood.oral
+0913011M0BCABAG,Altrajuce liquid (4 flavours),58199,3201228.4513600003,liquidfood.oral
+0913011J0BGABAE,Nutricrem dessert chocolate orange,31697,2634311.2431999994,grocerysemisolid.oral
+0913011N0BBABAI,Altraplen Energy liquid (4 flavours),82977,2457091.471129999,liquidfood.oral
+0913011X0BCABAD,Altraplen Compact Daily liquid (4 flavours),58553,2143169.4303800007,liquidfood.oral
+0913011L0BBAAAB,Ensure Plus Fibre liquid (5 flavours),15021,2030950.2148999996,liquidfood.gastroenteral
+0913011L0BBAAAB,Ensure Plus Fibre liquid (5 flavours),15021,2030950.2148999996,liquidfood.oral
+0913011K0BCAAAE,Ensure Plus Advance liquid (5 flavours),27579,1883156.8342199991,liquidfood.oral
+0913011K0BCAAAE,Ensure Plus Advance liquid (5 flavours),27579,1883156.8342199991,liquidfood.gastroenteral
+0913011M0BBABAE,Aymes Actagain Juce liquid (5 flavours),37048,1824573.3987000003,liquidfood.oral
+0913011N0BCABAF,Aymes Actagain 1.5 Complete liquid (4 flavours),47932,1656116.8404400009,liquidfood.oral
+0913011V0BBAAAA,Altraplen Compact liquid banana,25723,1651586.0646800008,liquidfood.oral
+0913011J0BGADAE,Nutricrem dessert strawberry,20437,1440899.4843400014,grocerysemisolid.oral
+0913011J0BGAEAE,Nutricrem dessert vanilla,18583,1304410.63079,grocerysemisolid.oral
+0913011C0BBAAAH,Aymes Shake powder 57g sachets banana,59304,1262016.9001799999,liquidfood.oral
+0913011V0BBACAA,Altraplen Compact liquid strawberry,18564,985958.83725,liquidfood.oral
+0913011S0BBAAAA,Aymes Actagain 2.4 liquid (3 flavours),16421,892855.0627200003,liquidfood.oral
+0913011I0BBAAAC,Ensure liquid (2 flavours),8592,884715.5916199995,liquidfood.gastroenteral
+0913011I0BBAAAC,Ensure liquid (2 flavours),8592,884715.5916199995,liquidfood.oral
+0913011K0BEAAAD,Fresubin Protein Energy drink (5 flavours),11479,875929.49526,liquidfood.oral
+0913011W0BCAAAC,Fresubin 3.2kcal drink (4 flavours),9261,843254.7533699997,liquidfood.oral
+0913011N0BGAAAB,Fresubin Energy liquid (7 flavours),19548,818850.6632299998,liquidfood.oral
+0913011C0BBAFAH,Aymes Shake powder 57g sachets strawberry,43430,814458.0889000001,liquidfood.oral
+0913011U0BBAAAA,Fresubin 2kcal Fibre drink (6 flavours),8413,784017.9094000001,liquidfood.oral
+0913011V0BBADAA,Altraplen Compact liquid vanilla,15045,738579.3722500002,liquidfood.oral
+0913011K0BBAAAA,Altraplen Protein liquid strawberry,7124,657498.6386299998,liquidfood.oral
+0913011J0BFAAAB,Fresubin 2kcal Creme dessert cappuccino,8325,571964.8727099998,grocerysemisolid.oral
+0913011X0BBABAB,Aymes Actagain 2.4 Daily liquid (3 flavours),12614,566368.3488699999,liquidfood.oral
+0913011S0BBAEAI,Aymes Actagain 2.0 liquid (6 flavours),8184,539433.49702,liquidfood.oral
+0913011M0BFAAAC,Fresubin Jucy drink (5 flavours),10613,539378.54184,liquidfood.oral
+0913011C0BBAGAH,Aymes Shake powder 57g sachets vanilla,29090,518049.57944999984,liquidfood.oral
+0913011F0BBAAAA,Aymes Shake Compact powder 57g sachets banana,22367,500869.57806999976,liquidfood.oral
+0913011J0BBAAAF,Aymes ActaCal Creme dessert (2 flavours),9598,483533.5306000002,grocerysemisolid.oral
+0913011N0BGAAAB,Fresubin Energy liquid (8 flavours),11729,479662.7602900001,liquidfood.oral
+0913011V0BBABAA,Altraplen Compact liquid hazel chocolate,10674,479255.03595999954,liquidfood.oral
+0913011Z0BBAAAA,Fortisip PlantBased 1.5kcal liquid mango passionfruit,6216,462415.3869099997,liquidfood.oral
+0913011E0BEAAAD,Scandishake Mix oral powder 85g sachets banana,3767,458852.1271599998,liquidfood.oral
+0913011E0BEAAAD,Scandishake Mix oral powder 85g sachets banana,3767,458852.1271599998,powderfoodmix.oral
+0913011S0BBADAB,Aymes 2.0kcal liquid (3 flavours),6363,456492.72433999996,liquidfood.oral
+0913011L0BCAAAA,Fresubin Energy Fibre liquid (6 flavours),4287,456300.21850000013,liquidfood.oral
+0913011C0BBACAH,Aymes Shake powder 57g sachets chocolate,25386,431683.1724,liquidfood.oral
+0913011J0BGACAE,Nutricrem dessert mint chocolate,8532,422457.62900000013,grocerysemisolid.oral
+0913011B0BBAAAA,Aymes ActaSolve Smoothie powder 66g sachets mango,10265,394665.4841000001,liquidfood.oral
+0913011C0BFAAAC,Foodlink Complete powder 57g sachets banana,18571,390276.01718,liquidfood.oral
+0913011W0BCABAD,Fresubin Pro Compact drink (3 flavours),6173,346477.1788599999,liquidfood.oral
+0913011E0BEADAD,Scandishake Mix oral powder 85g sachets strawberry,3171,333974.82937000017,liquidfood.oral
+0913011E0BEADAD,Scandishake Mix oral powder 85g sachets strawberry,3171,333974.82937000017,powderfoodmix.oral
+0913011E0BEACAD,Scandishake Mix oral powder 85g sachets chocolate,2911,320879.7589200002,liquidfood.oral
+0913011E0BEACAD,Scandishake Mix oral powder 85g sachets chocolate,2911,320879.7589200002,powderfoodmix.oral
+0913011J0BFABAB,Fresubin 2kcal Creme dessert chocolate,5793,313776.35517999995,grocerysemisolid.oral
+0913011J0BFADAB,Fresubin 2kcal Creme dessert vanilla,5475,293640.16050000006,grocerysemisolid.oral
+0913011F0BBAEAA,Aymes Shake Compact powder 57g sachets strawberry,14429,279539.5795100003,liquidfood.oral
+0913011J0BFAEAB,Fresubin 2kcal Creme dessert wild strawberry,5286,270697.03222000005,grocerysemisolid.oral
+0913011K0BBABAA,Altraplen Protein liquid vanilla,3412,269831.3945299999,liquidfood.oral
+0913011F0BBAFAA,Aymes Shake Compact powder 57g sachets vanilla,12461,244200.80560000005,liquidfood.oral
+0913011C0BBAIAH,Aymes Shake powder (5 flavours),11351,238163.6019700001,liquidfood.oral
+0913011Z0BBABAA,Fortisip PlantBased 1.5kcal liquid mocha,3421,233910.22416000007,liquidfood.oral
+0913011C0BCAAAA,Complan Shake oral powder 57g sachets banana,12700,233550.86757000006,liquidfood.oral
+0913011E0BEAFAD,Scandishake Mix oral powder 85g sachets vanilla,2193,233266.61609,powderfoodmix.oral
+0913011E0BEAFAD,Scandishake Mix oral powder 85g sachets vanilla,2193,233266.61609,liquidfood.oral
+0913011A0BBAAAA,Aymes ActaSolve Savoury powder 57g sachets chicken,8187,226000.79183000018,liquidfood.oral
+0913011B0BBADAA,Aymes ActaSolve Smoothie pdr 66g sach strawberry & cranberry,5909,201171.09447999997,liquidfood.oral
+0913011C0BFADAC,Foodlink Complete powder 57g sachets strawberry,11884,196878.94926999995,liquidfood.oral
+0913011C0BCADAA,Complan Shake oral powder 57g sachets strawberry,10882,185683.66165000005,liquidfood.oral
+0913011C0BFAEAC,Foodlink Complete powder 57g sachets vanilla,9930,173604.83974000008,liquidfood.oral
+0913011F0BBABAA,Aymes Shake Compact powder 57g sachets chocolate,9030,164461.02189999996,liquidfood.oral
+0913011V0BEAAAE,Fresubin 2kcal Mini drink (3 flavours),2339,163789.15029,liquidfood.oral
+0913011C0BFAFAC,Foodlink Complete powder (5 flavours),7751,162226.57177,liquidfood.oral
+0913011C0BBAEAH,Aymes Shake powder 57g sachets neutral,10273,159513.15954000005,liquidfood.oral
+0913011E0BDAAAC,Enshake oral powder 96.5g sachets banana,1246,156710.14041000005,liquidfood.oral
+0913011F0BCABAD,Foodlink Complete Compact powder 57g sachets banana,7645,156465.43313000005,liquidfood.oral
+0913011C0BEAAAB,Ensure Shake oral powder 57g sachets banana,6062,144648.05739000006,liquidfood.oral
+0913011N0BCACAM,Aymes Actagain 1.5 Plant Powered liquid (3 flavours),2700,140947.80243,liquidfood.oral
+0913011E0BDACAC,Enshake oral powder 96.5g sachets strawberry,1157,131879.83890000003,liquidfood.oral
+0913011C0BFABAC,Foodlink Complete powder 57g sachets chocolate,8111,131864.22740000003,liquidfood.oral
+0913011C0BCAEAA,Complan Shake oral powder 57g sachets vanilla,8085,131335.48802999995,liquidfood.oral
+0913011M0BEAAAA,Fortijuce Starter Pack liquid,3966,121083.33931000001,liquidfood.oral
+0913011B0BBABAA,Aymes ActaSolve Smoothie powder 66g sachets peach,4040,116227.35420999996,liquidfood.oral
+0913011V0BDABAF,Fortisip Compact Starter Pack liquid,2944,114041.63887999997,Formulation not specified
+0913011J0BGAAAD,Nutricrem Starter Pack dessert,1490,108849.76605999998,Formulation not specified
+0913011J0BEAAAA,Forticreme Complete dessert banana,1470,108127.47186000003,grocerysemisolid.oral
+0913011G0BBABAB,Aymes ActaSolve Delight powder 57g sachets butterscotch,2647,100966.90425,liquidfood.oral
+0913011A0BBABAA,Aymes ActaSolve Savoury powder 57g sachets vegetable,4504,100453.67463999997,liquidfood.oral
+0913011C0BCABAA,Complan Shake oral powder 57g sachets chocolate,6084,100419.16893999999,liquidfood.oral
+0913011C0BBAHAG,Aymes Shake Starter Pack powder,6139,99578.52448999998,Formulation not specified
+0913011E0BDADAC,Enshake oral powder 96.5g sachets vanilla,848,97950.23817000004,liquidfood.oral
+0913011W0BBAAAA,Fortisip Compact Protein Starter Pack liquid,1212,96961.41686999993,Formulation not specified
+0913011U0BDAAAC,Aymes Actagain 2.0 Fibre liquid (3 flavours),1272,93057.44183,liquidfood.oral
+0913011C0BEACAB,Ensure Shake oral powder 57g sachets strawberry,4283,92292.36292999997,liquidfood.oral
+0913011F0BCAEAD,Foodlink Complete Compact powder 57g sachets strawberry,5140,91193.08695,liquidfood.oral
+0913011B0BBACAA,Aymes ActaSolve Smoothie powder 66g sachets pineapple,3294,86913.27223000003,liquidfood.oral
+0913011F0BCAFAD,Foodlink Complete Compact powder 57g sachets vanilla,4769,86856.38709999996,liquidfood.oral
+0913011E0BDABAC,Enshake oral powder 96.5g sachets chocolate,769,84120.07355,liquidfood.oral
+0913011W0BCABAD,Fresubin Pro Compact drink (5 flavours),1465,83214.57505,liquidfood.oral
+0913011E0BEAEAD,Scandishake Mix oral powder 85g sachets unflavoured,942,82304.83667,powderfoodmix.oral
+0913011E0BEAEAD,Scandishake Mix oral powder 85g sachets unflavoured,942,82304.83667,liquidfood.oral
+0913011C0BEADAB,Ensure Shake oral powder 57g sachets vanilla,3870,81089.35845000003,liquidfood.oral
+0913011V0BCABAG,Ensure Compact Starter Pack liquid,1989,80538.84353000001,Formulation not specified
+0913011K0BDAAAB,Fortisip Extra liquid (2 flavours),1445,77412.35058999997,liquidfood.oral
+0913011H0BBABAB,Aymes ActaSolve Protein Compact powder 57g sachets banana,1514,68392.78460999999,liquidfood.oral
+0913011F0BBADAA,Aymes Shake Compact powder 57g sachets neutral,3974,67427.22384,liquidfood.oral
+0913011N0BEABAA,Ensure Plus Commence liquid assorted,1710,66232.28065000006,liquidfood.gastroenteral
+0913011N0BEABAA,Ensure Plus Commence liquid assorted,1710,66232.28065000006,liquidfood.oral
+0913011F0BCACAD,Foodlink Complete Compact powder 57g sachets chocolate,3738,64771.136119999996,liquidfood.oral
+0913011B0BCABAD,Foodlink Smoothie powder 66g sachets orange & mango,1687,64449.08774999998,liquidfood.oral
+0913011E0BCAEAB,Calshake powder 90g sachets chocolate,643,63935.52311999998,liquidfood.oral
+0913011E0BEABAD,Scandishake Mix oral powder 85g sachets caramel,951,62270.80658,powderfoodmix.oral
+0913011E0BEABAD,Scandishake Mix oral powder 85g sachets caramel,951,62270.80658,liquidfood.oral
+0913011C0BFACAC,Foodlink Complete powder 57g sachets natural,4025,60664.61552000001,liquidfood.oral
+0913011J0BFACAB,Fresubin 2kcal Creme dessert praline,1887,60535.45239000001,grocerysemisolid.oral
+0913011J0BFAFAC,Fresubin YOcreme dessert apricot-peach,813,58439.66420999998,grocerysemisolid.oral
+0913011V0BBAEAB,Altraplen Compact Starter Pack liquid,890,56969.573539999976,Formulation not specified
+0913011E0BBAAAA,Aymes ActaSolve High Energy powder 85g sachets banana,864,52034.31616000003,liquidfood.oral
+0913011D0BCAAAB,Foodlink Complete powder with fibre 63g sachets banana,1511,51816.58178999998,liquidfood.oral
+0913011E0BCAAAB,Calshake powder 87g sachets banana,653,51632.066960000004,liquidfood.oral
+0913011M0BCAAAF,Altrajuce Starter Pack liquid,1024,49661.12690000001,Formulation not specified
+0913011T0BCAAAB,Fresubin 2kcal Fibre Mini drink (2 flavours),614,48541.91910000002,liquidfood.oral
+0913011G0BBADAB,Aymes ActaSolve Delight powder 57g sachets mixed berries,1533,46511.232449999996,liquidfood.oral
+0913011N0BBAAAK,Altraplen Energy Starter Pack liquid,1416,45649.10509999995,Formulation not specified
+0913011A0BBACAA,Aymes ActaSolve Savoury powder 57g sachets potato & leek,2389,45369.823719999986,liquidfood.oral
+0913011C0BEABAB,Ensure Shake oral powder 57g sachets chocolate,2410,45140.77068000001,liquidfood.oral
+0913011E0BCACAB,Calshake powder 87g sachets strawberry,568,44108.425289999985,liquidfood.oral
+0913011U0BCAAAB,Resource Fibre 2.0 liquid (2 flavours),306,41160.64440000002,liquidfood.gastroenteral
+0913011U0BCAAAB,Resource Fibre 2.0 liquid (2 flavours),306,41160.64440000002,liquidfood.oral
+0913011E0BFAAAF,Foodlink Extra powder 85g sachets banana,726,39604.337680000004,liquidfood.oral
+0913011M0BDABAI,Ensure Plus Juce Starter Pack liquid,987,37754.47476,Formulation not specified
+0913011H0BBAEAB,Aymes ActaSolve Protein Compact pdr 57g sachets strawberry,997,37059.0266,liquidfood.oral
+0913011J0BEABAA,Forticreme Complete dessert chocolate,537,36837.318170000006,grocerysemisolid.oral
+0913011N0BCAAAE,Aymes Actagain 1.5 Complete Starter Pack liquid,948,36145.830899999986,Formulation not specified
+0913011X0BCAAAC,Altraplen Compact Daily Starter Pack liquid,943,35569.23156999999,Formulation not specified
+0913011C0BBADAH,Aymes Shake powder 57g sachets ginger,4464,33987.32831,liquidfood.oral
+0913011H0BBAFAB,Aymes ActaSolve Protein Compact powder 57g sachets vanilla,908,33937.75737,liquidfood.oral
+0913011J0BEADAA,Forticreme Complete dessert vanilla,516,33809.776190000004,grocerysemisolid.oral
+0913011N0BIAAAD,Resource Energy liquid chocolate,226,33136.512739999984,liquidfood.gastroenteral
+0913011N0BIAAAD,Resource Energy liquid chocolate,226,33136.512739999984,liquidfood.oral
+0913011F0BCADAD,Foodlink Complete Compact powder 57g sachets natural,1891,32348.46042000001,liquidfood.oral
+0913011B0BCADAD,Foodlink Smoothie powder 66g sachets red berry,1043,32038.08825000001,liquidfood.oral
+0913011J0BFAIAC,Fresubin YOcreme dessert raspberry,537,31845.866110000003,grocerysemisolid.oral
+0913011I0BDAAAA,Fresubin Original drink vanilla,331,31604.162820000016,liquidfood.oral
+0913011M0BBAAAH,Aymes Actagain Juce Starter Pack liquid,840,29805.86840000002,Formulation not specified
+0913011D0BCADAB,Foodlink Complete powder with fibre 63g sachets strawberry,1075,29352.176210000005,liquidfood.oral
+0913011E0BBACAA,Aymes ActaSolve High Energy powder 85g sachets strawberry,589,29262.12583000001,liquidfood.oral
+0913011C0BCACAA,Complan Shake oral powder 57g sachets milk,2118,28912.27241000001,liquidfood.oral
+0913011E0BCADAB,Calshake powder 87g sachets vanilla,401,27988.837989999996,liquidfood.oral
+0913011F0BBAGAB,Aymes Shake Compact Starter Pack powder,1335,27890.383790000004,Formulation not specified
+0913011C0BFAGAF,Foodlink Complete Starter Pack powder,1080,25461.884189999993,Formulation not specified
+0913011N0BGABAB,Fresubin Energy liquid unflavoured,550,25183.005050000003,liquidfood.oral
+0913011N0BDAAAJ,EnergieShake Complete 1.5kcal liquid (4 flavours),992,24822.285160000032,liquidfood.oral
+0913011D0BBABAD,Aymes Shake Fibre powder 57g sachets banana,800,24338.156059999998,liquidfood.oral
+0913011D0BCAEAB,Foodlink Complete powder with fibre 63g sachets vanilla,818,24052.20481,liquidfood.oral
+0913011E0BFACAF,Foodlink Extra powder 85g sachets strawberry,541,23817.341559999997,liquidfood.oral
+0913011F0BBACAA,Aymes Shake Compact powder 57g sachets ginger,2096,23808.570680000008,liquidfood.oral
+0913011E0BBADAA,Aymes ActaSolve High Energy powder 85g sachets vanilla,489,22674.841219999995,liquidfood.oral
+0913011E0BBABAA,Aymes ActaSolve High Energy powder 85g sachets chocolate,469,22309.958130000003,liquidfood.oral
+0913011J0BFAGAC,Fresubin YOcreme dessert biscuit,345,22191.00631,grocerysemisolid.oral
+0913011G0BBACAB,Aymes ActaSolve Delight powder 57g sachets lemon,871,21872.94415000001,liquidfood.oral
+0913011C0BCAFAE,Complan Shake Starter Pack sachets,821,21792.441289999995,Formulation not specified
+0913011D0BCABAB,Foodlink Complete powder with fibre 63g sachets chocolate,721,21615.75086,liquidfood.oral
+0913011E0BFADAF,Foodlink Extra powder 85g sachets vanilla,464,21541.019749999996,liquidfood.oral
+0913011B0BBAEAB,Aymes ActaSolve Smoothie Starter Pack powder,630,20929.59852,Formulation not specified
+0913011B0BCAEAD,Foodlink Smoothie powder 66g sachets tropical,740,20073.73697,liquidfood.oral
+0913011B0BCACAD,Foodlink Smoothie powder 66g sachets peach,703,19454.979730000003,liquidfood.oral
+0913011J0BEACAA,Forticreme Complete dessert forest fruits,343,18866.66411,grocerysemisolid.oral
+0913011H0BBACAB,Aymes ActaSolve Protein Compact powder 57g sachets chocolate,549,18316.25615,liquidfood.oral
+0913011J0BFAHAC,Fresubin YOcreme dessert lemon,327,17828.15552,grocerysemisolid.oral
+0913011E0BCABAB,Calshake powder 87g sachets neutral,192,17269.183240000002,liquidfood.oral
+0913011N0BIABAD,Resource Energy liquid strawberry & raspberry,157,15913.776389999997,liquidfood.oral
+0913011N0BIABAD,Resource Energy liquid strawberry & raspberry,157,15913.776389999997,liquidfood.gastroenteral
+0913011D0BBAEAD,Aymes Shake Fibre powder 57g sachets strawberry,572,15178.380920000001,liquidfood.oral
+0913011E0BFABAF,Foodlink Extra powder 85g sachets chocolate,344,15106.210109999996,liquidfood.oral
+0913011K0BBACAC,Altraplen Protein Starter Pack liquid,262,14426.288760000007,Formulation not specified
+0913011I0BDAAAA,Fresubin Original drink (3 flavours),153,13078.392499999998,liquidfood.oral
+0913011S0BBACAG,Aymes 2.0kcal Starter Pack liquid,174,12875.18339,Formulation not specified
+0913011N0BIACAD,Resource Energy liquid vanilla,117,12860.023610000002,liquidfood.gastroenteral
+0913011N0BIACAD,Resource Energy liquid vanilla,117,12860.023610000002,liquidfood.oral
+0913011D0BBAFAD,Aymes Shake Fibre powder 57g sachets vanilla,448,12804.11715,liquidfood.oral
+0913011H0BBADAB,Aymes ActaSolve Protein Compact powder 57g sachets neutral,375,12424.691569999999,liquidfood.oral
+0913011D0BCACAB,Foodlink Complete powder with fibre 63g sachets natural,428,12333.185069999996,liquidfood.oral
+0913011F0BCAAAC,Foodlink Complete Compact Starter Pack sachets,435,11839.229510000006,Formulation not specified
+0913011H0BBABAB,Aymes Actasolve Protein Compact pdr 57g banana milkshake,234,11646.150549999991,liquidfood.oral
+0913011D0BBADAD,Aymes Shake Fibre powder 57g sachets neutral,345,10395.258730000007,liquidfood.oral
+0913011D0BBACAD,Aymes Shake Fibre powder 57g sachets chocolate,366,9780.933540000007,liquidfood.oral
+0913011C0BDABAJ,EnergieShake Powder oral powder 57g sachets banana,568,8641.585770000003,liquidfood.oral
+0913011S0BBABAF,Aymes Actagain 2.4 Starter Pack liquid,174,8451.591060000002,Formulation not specified
+0913011Q0BDAAAB,Fresubin YoDrink (3 flavours),152,8413.998069999996,liquidfood.oral
+0913011C0BGAAAD,Fresubin Powder Extra oral powder 62g sachets chocolate,242,7765.11601,liquidfood.oral
+0913011T0BBAAAA,Fortisip Compact Fibre Starter Pack liquid,126,7747.208019999999,liquidfood.oral
+0913011Z0BCAAAB,Fresubin Plant-Based drink,125,6957.092640000002,liquidfood.oral
+0913011C0BGACAD,Fresubin Powder Extra oral powder 62g sachets strawberry,252,5974.168210000002,liquidfood.oral
+0913011M0BFABAD,Fresubin Jucy drink starter pack,188,5856.999399999997,Formulation not specified
+0913011A0BBADAB,Aymes ActaSolve Savoury Starter Pack powder,339,5825.09673,Formulation not specified
+0913011S0BBAFAJ,Aymes Actagain 2.0 Starter Pack liquid,125,5633.644600000002,Formulation not specified
+0913011H0BBAEAB,Aymes Actasolve Protein Compact pdr 57g strawberry burst,142,5582.088649999996,liquidfood.oral
+0913011H0BBAFAB,Aymes Actasolve Protein Compact pdr 57g sach smooth vanilla,138,5556.023559999995,liquidfood.oral
+0913011C0BGADAD,Fresubin Powder Extra oral powder 62g sachets vanilla,195,5252.179710000002,liquidfood.oral
+0913011J0BBABAH,Aymes ActaCal Creme Starter Pack dessert,191,5086.090289999998,Formulation not specified
+0913011AABBAAAA,Fortisip PlantBased 2kcal liquid (3 flavours),53,5078.45961,liquidfood.oral
+0913011X0BBAAAA,Aymes Actagain 2.4 Daily Starter Pack liquid,143,4914.51957,Formulation not specified
+0913011R0BBAAAA,Fresubin Dessert Fruit Puree,83,4894.320719999999,grocerysemisolid.oral
+0913011C0BDAFAJ,EnergieShake Powder oral powder 57g sachets vanilla,286,4263.814810000001,liquidfood.oral
+0913011C0BDAEAJ,EnergieShake Powder oral powder 57g sachets strawberry,279,3668.2518099999993,liquidfood.oral
+0913011D0BBABAD,Aymes Actasolve Shake Fibre pdr 57g sachets banana milkshake,107,3496.453249999999,liquidfood.oral
+0913011C0BDACAJ,EnergieShake Powder oral powder 57g sachets chocolate,249,3462.7521299999994,liquidfood.oral
+0913011B0BCAAAC,Foodlink Smoothie Starter Pack sachets,84,3366.449250000001,Formulation not specified
+0913011D0BBAEAD,Aymes Actasolve Shake Fibre pdr 57g sachets strawberry burst,112,3326.346910000001,liquidfood.oral
+0913011H0BBAAAA,Aymes ActaSolve Protein Compact Starter Pack powder,94,2903.0815000000002,Formulation not specified
+0913011H0BBACAB,Aymes Actasolve Protein Compact pdr 57g classic chocolate,88,2772.8289899999986,liquidfood.oral
+0913011C0BDAAAI,EnergieShake Powder Starter Pack oral powder sachets,107,2444.0515299999997,Formulation not specified
+0913011N0BCADAN,Aymes Actagain 1.5 Plant Powered Starter Pack liquid,68,2178.02828,Formulation not specified
+0913011G0BBAAAA,Aymes ActaSolve Delight Starter Pack powder,86,1981.2107500000002,Formulation not specified
+0913011D0BCAFAA,Foodlink Complete powder with fibre Starter Pack,47,1845.4706600000002,Formulation not specified
+0913011C0BGABAD,Fresubin Powder Extra oral powder 62g sachets neutral,65,1765.4133200000006,liquidfood.oral
+0913011D0BBAFAD,Aymes Actasolve Shake Fibre pdr 57g sachets smooth vanilla,66,1698.47786,liquidfood.oral
+0913011S0BCAAAH,EnergieShake 2.0kcal liquid (3 flavours),27,1665.2728799999998,liquidfood.oral
+0913011D0BBACAD,Aymes Actasolve Shake Fibre pdr 57g sach classic chocolate,59,1560.4014200000004,liquidfood.oral
+0913011U0BDABAD,Aymes Actagain 2.0 Fibre Starter Pack liquid,23,1502.4346700000003,Formulation not specified
+0913011H0BBADAB,Aymes Actasolve Protein Compact pdr 57g sach simply neutral,42,1342.2861899999998,liquidfood.oral
+0913011C0BDADAJ,EnergieShake Powder oral powder 57g sachets neutral,70,945.2605900000001,liquidfood.oral
+0913011J0BCAAAI,EnergieShake dessert (2 flavours),17,676.2732500000001,grocerysemisolid.oral
+0913011D0BBADAD,Aymes Actasolve Shake Fibre pdr 57g sachets simply neutral,29,669.65446,liquidfood.oral
+0913011E0BBAEAE,Aymes ActaSolve High Energy Starter Pack powder,11,511.26559999999995,Formulation not specified
+0913011D0BBAAAC,Aymes Shake Fibre Starter Pack powder,21,451.7557300000001,Formulation not specified
+0913011C0BFAHAK,Foodlink Aqua powder (4 flavours),27,398.28272000000004,liquidfood.oral
+0913011Y0BBAAAA,Altraplen Compact Protein Max liquid (4 flavours),4,233.64432,liquidfood.oral
+0913011E0BFAEAG,Foodlink Extra Starter Pack sachets,4,212.99493,Formulation not specified
+0913011N0BIADAD,Resource Energy liquid apricot,1,90.6524,liquidfood.oral
+0913011N0BIADAD,Resource Energy liquid apricot,1,90.6524,liquidfood.gastroenteral
+0913011N0BIAEAD,Resource Energy liquid coffee,4,85.74960000000002,liquidfood.oral
+0913011N0BIAEAD,Resource Energy liquid coffee,4,85.74960000000002,liquidfood.gastroenteral
+0913011N0AAAGAG,Generic Fortisip Bottle,2,74.5034,liquidfood.oral
+0913011I0BCAAAB,EnergieShake Advance 1.3kcal oral liquid (2 flavours),4,73.67747,liquid.oral
+0913011L0AAABAB,Generic Ensure Plus Fibre liquid,1,64.0624,liquidfood.oral
+0913011L0AAABAB,Generic Ensure Plus Fibre liquid,1,64.0624,liquidfood.gastroenteral
+0913011D0BBAAAC,Aymes Actasolve Shake Fibre Starter Pack powder,6,61.17492,Formulation not specified
+0913011F0AAADAD,Generic Foodlink Complete Compact powder 57g sachets,2,46.310739999999996,liquidfood.oral
+0913011N0AAAJAJ,Generic EnergieShake Complete 1.5kcal liquid,1,31.29503,liquidfood.oral
+0913011C0AAACAC,Generic Foodlink Complete powder,2,30.88008,liquidfood.oral
+0913011N0AAAFAF,Generic Aymes Complete liquid,4,29.57504,liquidfood.oral
+0913011C0AAAJAJ,Generic EnergieShake Powder oral powder 57g sachets,1,5.96463,liquidfood.oral
+0913011S0AAACAC,Generic Ensure TwoCal liquid,1,5.8324,liquidfood.gastroenteral
+0913011S0AAACAC,Generic Ensure TwoCal liquid,1,5.8324,liquidfood.oral
+0913011N0AAAAAA,Generic Ensure Plus milkshake style liquid,2,0.0,liquidfood.gastroenteral
+0913011N0AAAAAA,Generic Ensure Plus milkshake style liquid,2,0.0,liquidfood.oral
