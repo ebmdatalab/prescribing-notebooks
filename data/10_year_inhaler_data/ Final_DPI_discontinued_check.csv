@@ -1,0 +1,497 @@
+year,bnf_code,bnf_name,atc_code,type,total_items,disc_status,data_quality
+2016,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,MDI,12250150,Discontinued,Complete
+2016,0302000N0AAAZAZ,Fluticasone propion 500mcg/Salmeterol 50mcg/dose dry pdr inh,R03AK06,DPI,602486,Discontinued,Complete
+2016,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,MDI,436841,Discontinued,Complete
+2016,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,297692,Discontinued,Complete
+2016,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,DPI,272570,Discontinued,Complete
+2016,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,DPI,250601,Discontinued,Complete
+2016,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,DPI,149581,Discontinued,Complete
+2016,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler,R03AC02,MDI,85983,Discontinued,Complete
+2016,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,DPI,38827,Discontinued,Complete
+2016,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler,R03BA05,DPI,31125,Discontinued,Complete
+2016,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,R03AL03,DPI,30004,Discontinued,Complete
+2016,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler,R03AC02,MDI,29931,Discontinued,Complete
+2016,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,R03BA05,MDI,15691,Discontinued,Complete
+2016,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler,R03BA05,MDI,14476,Discontinued,Complete
+2016,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,MDI,4679,Discontinued,Complete
+2016,0301011R0BTAAAQ,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler,R03AC02,DPI,3350,Discontinued,Complete
+2016,0302000C0BIAEBJ,Asmabec 100 Clickhaler,R03BA01,DPI,3231,Discontinued,Complete
+2016,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,MDI,2032,Discontinued,Complete
+2016,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device,R03AC13,DPI,1380,Discontinued,Complete
+2016,0301011R0BJABAF,Asmasal 95micrograms/dose Clickhaler,R03AC02,DPI,1369,Discontinued,Complete
+2016,0303010J0BBAFAD,Tilade 2mg/dose inhaler CFC free,R03BC03,MDI,1258,Discontinued,Complete
+2016,0301011R0BZAAAP,AirSalb 100micrograms/dose inhaler CFC free,R03AC02,MDI,1138,Discontinued,Complete
+2016,0302000C0BLABBJ,Pulvinal Beclometasone Diprop 100microg/dose dry pdr inh,R03BA01,DPI,929,Discontinued,Complete
+2016,0301011U0BFAAAH,Vertine 25micrograms/dose inhaler CFC free,R03AC12,MDI,816,Discontinued,Complete
+2016,0302000C0BLAABU,Pulvinal Beclometasone Diprop 200microg/dose dry pdr inh,R03BA01,DPI,660,Discontinued,Complete
+2016,0302000C0BCAHAB,Becotide 100 inhaler,R03BA01,MDI,257,Discontinued,Complete
+2016,0302000C0BLACBS,Pulvinal Beclometasone Diprop 400microg/dose dry pdr inh,R03BA01,DPI,230,Discontinued,Complete
+2016,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler,R03BA01,MDI,209,Discontinued,Complete
+2016,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),R03AC12,MDI,169,Discontinued,Complete
+2016,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow),R03AC02,MDI,141,Discontinued,Complete
+2016,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler,R03BA01,MDI,89,Discontinued,Complete
+2016,0301011U0BBACAC,Serevent 25micrograms/dose inhaler,R03AC12,MDI,57,Discontinued,Complete
+2016,0301011U0BBAAAA,Serevent 50microgram disks with Diskhaler,R03AC12,DPI,47,Discontinued,Complete
+2016,0301011R0BEAPAV,Ventolin 200microgram Rotacaps,R03AC02,DPI,36,Discontinued,Complete
+2016,0301011U0BBABAB,Serevent 50microgram disks,R03AC12,DPI,27,Discontinued,Complete
+2016,0302000C0BBAAAC,Becloforte 250micrograms/dose inhaler,R03BA01,MDI,25,Discontinued,Complete
+2016,0302000C0BIAFBK,Asmabec 250 Clickhaler,R03BA01,DPI,25,Discontinued,Complete
+2016,0302000C0BCADAF,Becotide 200microgram Rotacaps,R03BA01,DPI,24,Discontinued,Complete
+2016,0302000C0BCAIAA,Becotide 50 inhaler,R03BA01,MDI,23,Discontinued,Complete
+2016,0301040R0BBAAAA,Combivent inhaler,R03AL02,MDI,23,Discontinued,Complete
+2016,0301011R0BYAAAP,Asmavent 100micrograms/dose inhaler CFC free,R03AC02,MDI,19,Discontinued,Complete
+2016,0301011R0BEAQAW,Ventolin 400microgram Rotacaps,R03AC02,DPI,15,Discontinued,Complete
+2016,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler,R03BA01,MDI,15,Discontinued,Complete
+2016,0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler,R03BB01,MDI,14,Discontinued,Complete
+2016,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler,R03AC02,MDI,14,Discontinued,Complete
+2016,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler,R03BA01,MDI,12,Discontinued,Complete
+2016,0301020I0BBAGAG,Atrovent 20micrograms/dose Autohaler,R03BB01,MDI,11,Discontinued,Complete
+2016,0302000C0BCACAE,Becotide 100microgram Rotacaps,R03BA01,DPI,7,Discontinued,Complete
+2016,0302000C0BDAAAN,Ventide inhaler,R03AK13,MDI,6,Discontinued,Complete
+2016,0302000K0BBADAD,Pulmicort 200micrograms/dose inhaler,R03BA02,MDI,5,Discontinued,Complete
+2016,0302000K0BBAMAZ,Pulmicort 100micrograms/dose inhaler CFC free,R03BA02,MDI,5,Discontinued,Complete
+2016,0301011R0BLADAL,Ventodisks 400microgram,R03AC02,DPI,4,Discontinued,Complete
+2016,0302000C0BCAGAI,Becotide 400microgram Rotacaps,R03BA01,DPI,4,Discontinued,Complete
+2016,0303010Q0BBACAD,Intal 20mg Spincaps,R03BC01,DPI,4,Discontinued,Complete
+2016,0301011R0BLABAK,Ventodisks 200microgram,R03AC02,DPI,4,Discontinued,Complete
+2016,0302000C0BCAQAR,Becotide 200 inhaler,R03BA01,MDI,3,Discontinued,Complete
+2016,0301011V0BBADAA,Bricanyl 250micrograms/dose inhaler,R03AC03,MDI,3,Discontinued,Complete
+2016,0302000C0BFABAB,Beclazone 100 inhaler,R03BA01,MDI,3,Discontinued,Complete
+2016,0302000C0BHADAK,Becodisks 200microgram,R03BA01,DPI,3,Discontinued,Complete
+2016,0302000K0BBANBA,Pulmicort 200micrograms/dose inhaler CFC free,R03BA02,MDI,3,Discontinued,Complete
+2016,0301040M0BBAAAA,Duovent inhaler,R03AL01,MDI,2,Discontinued,Complete
+2016,0302000N0BBAAAA,Flixotide 50microgram disks with Diskhaler,R03BA05,DPI,2,Discontinued,Complete
+2016,0301011R0BLACAJ,Ventodisks 400microgram with Diskhaler,R03AC02,DPI,2,Discontinued,Complete
+2016,0302000C0BGABAB,Filair 100 inhaler,R03BA01,MDI,2,Discontinued,Complete
+2016,0301020I0BBADAD,Atrovent Forte 40micrograms/dose inhaler,R03BB01,MDI,2,Discontinued,Complete
+2016,0302000C0BEACAT,AeroBec 100 Autohaler,R03BA01,MDI,2,Discontinued,Complete
+2016,0302000K0BBAEAA,Pulmicort LS 50micrograms/dose inhaler,R03BA02,MDI,2,Discontinued,Complete
+2016,0302000N0BBACAC,Flixotide 100microgram disks with Diskhaler,R03BA05,DPI,2,Discontinued,Complete
+2016,0302000C0BFAEAT,Beclazone 100 Easi-Breathe inhaler,R03BA01,MDI,2,Discontinued,Complete
+2016,0301020P0BBAAAA,Oxivent 100micrograms/dose inhaler,R03BB02,MDI,1,Discontinued,Complete
+2016,0303010Q0BBAFAB,Intal 5mg/dose inhaler,R03BC01,MDI,1,Discontinued,Complete
+2016,0303010Q0BBAJAJ,Intal 5mg/dose Fisonair with spacer,R03BC01,MDI,1,Discontinued,Complete
+2016,0302000C0BHACAH,Becodisks 200microgram with Diskhaler,R03BA01,DPI,1,Discontinued,Complete
+2016,0302000C0BFACAC,Beclazone 250 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2016,0301011R0BKADAD,Aerolin 100micrograms/dose Autohaler,R03AC02,MDI,1,Discontinued,Complete
+2016,0302000N0BBAFAF,Flixotide 250microgram disks,R03BA05,DPI,1,Discontinued,Complete
+2016,0301011R0BLAAAI,Ventodisks 200microgram with Diskhaler,R03AC02,DPI,1,Discontinued,Complete
+2016,0302000N0BBAEAE,Flixotide 250microgram disks with Diskhaler,R03BA05,DPI,1,Discontinued,Complete
+2016,0302000C0BFAAAA,Beclazone 50 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2016,0302000C0BEABAU,AeroBec Forte 250 Autohaler,R03BA01,MDI,1,Discontinued,Complete
+2016,0302000C0BHAAAG,Becodisks 100microgram with Diskhaler,R03BA01,DPI,1,Discontinued,Complete
+2017,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,MDI,12309543,Discontinued,Complete
+2017,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,435857,Discontinued,Complete
+2017,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,MDI,361689,Discontinued,Complete
+2017,0302000N0AAAZAZ,Fluticasone propion 500mcg/Salmeterol 50mcg/dose dry pdr inh,R03AK06,DPI,346654,Discontinued,Complete
+2017,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,DPI,344926,Discontinued,Complete
+2017,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,DPI,331451,Discontinued,Complete
+2017,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,DPI,146442,Discontinued,Complete
+2017,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,DPI,130454,Discontinued,Complete
+2017,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler,R03AC02,MDI,81825,Discontinued,Complete
+2017,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,R03AL03,DPI,41582,Discontinued,Complete
+2017,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler,R03AC02,MDI,25859,Discontinued,Complete
+2017,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler,R03BA05,DPI,25533,Discontinued,Complete
+2017,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,R03BA05,MDI,16375,Discontinued,Complete
+2017,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler,R03BA05,MDI,16092,Discontinued,Complete
+2017,0302000N0BHAAAZ,Aerivio Spiromax 50microg / 500microg/dose dry pdr inh,R03AK06,DPI,6402,Discontinued,Complete
+2017,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,MDI,4676,Discontinued,Complete
+2017,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,MDI,2014,Discontinued,Complete
+2017,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device,R03AC13,DPI,1231,Discontinued,Complete
+2017,0303010J0BBAFAD,Tilade 2mg/dose inhaler CFC free,R03BC03,MDI,1101,Discontinued,Complete
+2017,0301011U0BFAAAH,Vertine 25micrograms/dose inhaler CFC free,R03AC12,MDI,1022,Discontinued,Complete
+2017,0301011R0BZAAAP,AirSalb 100micrograms/dose inhaler CFC free,R03AC02,MDI,737,Discontinued,Complete
+2017,0302000C0BIAEBJ,Asmabec 100 Clickhaler,R03BA01,DPI,363,Discontinued,Complete
+2017,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),R03AC12,MDI,162,Discontinued,Complete
+2017,0301011R0BJABAF,Asmasal 95micrograms/dose Clickhaler,R03AC02,DPI,161,Discontinued,Complete
+2017,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler,R03BA01,MDI,109,Discontinued,Complete
+2017,0301011R0BTAAAQ,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler,R03AC02,DPI,89,Discontinued,Complete
+2017,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler,R03BA01,MDI,49,Discontinued,Complete
+2017,0302000C0BLABBJ,Pulvinal Beclometasone Diprop 100microg/dose dry pdr inh,R03BA01,DPI,46,Discontinued,Complete
+2017,0302000C0BFABAB,Beclazone 100 inhaler,R03BA01,MDI,35,Discontinued,Complete
+2017,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler,R03BA01,MDI,20,Discontinued,Complete
+2017,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler,R03AC02,MDI,17,Discontinued,Complete
+2017,0302000C0BLAABU,Pulvinal Beclometasone Diprop 200microg/dose dry pdr inh,R03BA01,DPI,17,Discontinued,Complete
+2017,0302000C0BFAAAA,Beclazone 50 inhaler,R03BA01,MDI,13,Discontinued,Complete
+2017,0302000C0BFAGAR,Beclazone 200 inhaler,R03BA01,MDI,11,Discontinued,Complete
+2017,0301011U0BBACAC,Serevent 25micrograms/dose inhaler,R03AC12,MDI,8,Discontinued,Complete
+2017,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow),R03AC02,MDI,8,Discontinued,Complete
+2017,0302000C0BLACBS,Pulvinal Beclometasone Diprop 400microg/dose dry pdr inh,R03BA01,DPI,8,Discontinued,Complete
+2017,0301011U0BBAAAA,Serevent 50microgram disks with Diskhaler,R03AC12,DPI,5,Discontinued,Complete
+2017,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler,R03BA01,MDI,4,Discontinued,Complete
+2017,0301011R0BYAAAP,Asmavent 100micrograms/dose inhaler CFC free,R03AC02,MDI,3,Discontinued,Complete
+2017,0302000K0BBAMAZ,Pulmicort 100micrograms/dose inhaler CFC free,R03BA02,MDI,3,Discontinued,Complete
+2017,0301011U0BBABAB,Serevent 50microgram disks,R03AC12,DPI,3,Discontinued,Complete
+2017,0302000C0BFACAC,Beclazone 250 inhaler,R03BA01,MDI,3,Discontinued,Complete
+2017,0302000C0BHADAK,Becodisks 200microgram,R03BA01,DPI,2,Discontinued,Complete
+2017,0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler,R03BB01,MDI,1,Discontinued,Complete
+2017,0302000K0BBAEAA,Pulmicort LS 50micrograms/dose inhaler,R03BA02,MDI,1,Discontinued,Complete
+2017,0302000C0BHAFAQ,Becodisks 400microgram,R03BA01,DPI,1,Discontinued,Complete
+2017,0303010Q0BBACAD,Intal 20mg Spincaps,R03BC01,DPI,1,Discontinued,Complete
+2017,0301040R0BBAAAA,Combivent inhaler,R03AL02,MDI,1,Discontinued,Complete
+2018,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,MDI,12215290,Discontinued,Complete
+2018,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,453278,Discontinued,Complete
+2018,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,DPI,399598,Discontinued,Complete
+2018,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,MDI,292188,Discontinued,Complete
+2018,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,DPI,288481,Discontinued,Complete
+2018,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,DPI,211101,Discontinued,Complete
+2018,0302000N0AAAZAZ,Fluticasone propion 500mcg/Salmeterol 50mcg/dose dry pdr inh,R03AK06,DPI,188953,Discontinued,Complete
+2018,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,DPI,142836,Discontinued,Complete
+2018,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler,R03AC02,MDI,77079,Discontinued,Complete
+2018,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,R03AL03,DPI,47069,Discontinued,Complete
+2018,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler,R03AC02,MDI,23388,Discontinued,Complete
+2018,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler,R03BA05,DPI,21125,Discontinued,Complete
+2018,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler,R03BA05,MDI,18357,Discontinued,Complete
+2018,0302000N0BHAAAZ,Aerivio Spiromax 50microg / 500microg/dose dry pdr inh,R03AK06,DPI,18196,Discontinued,Complete
+2018,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,R03BA05,MDI,17545,Discontinued,Complete
+2018,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,MDI,5130,Discontinued,Complete
+2018,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,MDI,2420,Discontinued,Complete
+2018,0301011U0BFAAAH,Vertine 25micrograms/dose inhaler CFC free,R03AC12,MDI,1250,Discontinued,Complete
+2018,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device,R03AC13,DPI,1163,Discontinued,Complete
+2018,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),R03AC12,MDI,698,Discontinued,Complete
+2018,0303010J0BBAFAD,Tilade 2mg/dose inhaler CFC free,R03BC03,MDI,638,Discontinued,Complete
+2018,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler,R03AC02,MDI,322,Discontinued,Complete
+2018,0301011R0BZAAAP,AirSalb 100micrograms/dose inhaler CFC free,R03AC02,MDI,190,Discontinued,Complete
+2018,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler,R03BA01,MDI,36,Discontinued,Complete
+2018,0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler,R03AK11,MDI,30,Discontinued,Complete
+2018,0302000C0BIAEBJ,Asmabec 100 Clickhaler,R03BA01,DPI,20,Discontinued,Complete
+2018,0301011R0BTAAAQ,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler,R03AC02,DPI,16,Discontinued,Complete
+2018,0301011R0BJABAF,Asmasal 95micrograms/dose Clickhaler,R03AC02,DPI,16,Discontinued,Complete
+2018,0302000N0BDAEBQ,Flutiform K-haler 50microg/dose / 5microg/dose BA inh,R03AK11,MDI,12,Discontinued,Complete
+2018,0302000C0BFABAB,Beclazone 100 inhaler,R03BA01,MDI,11,Discontinued,Complete
+2018,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler,R03BA01,MDI,11,Discontinued,Complete
+2018,0301011U0BBACAC,Serevent 25micrograms/dose inhaler,R03AC12,MDI,10,Discontinued,Complete
+2018,0301011U0BBAAAA,Serevent 50microgram disks with Diskhaler,R03AC12,DPI,8,Discontinued,Complete
+2018,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler,R03BA01,MDI,8,Discontinued,Complete
+2018,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler,R03BA01,MDI,8,Discontinued,Complete
+2018,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow),R03AC02,MDI,7,Discontinued,Complete
+2018,0302000C0BFAGAR,Beclazone 200 inhaler,R03BA01,MDI,7,Discontinued,Complete
+2018,0302000C0BLAABU,Pulvinal Beclometasone Diprop 200microg/dose dry pdr inh,R03BA01,DPI,5,Discontinued,Complete
+2018,0302000C0BLABBJ,Pulvinal Beclometasone Diprop 100microg/dose dry pdr inh,R03BA01,DPI,3,Discontinued,Complete
+2018,0302000K0BBANBA,Pulmicort 200micrograms/dose inhaler CFC free,R03BA02,MDI,3,Discontinued,Complete
+2018,0301020I0BBAGAG,Atrovent 20micrograms/dose Autohaler,R03BB01,MDI,2,Discontinued,Complete
+2018,0301040R0BBAAAA,Combivent inhaler,R03AL02,MDI,1,Discontinued,Complete
+2018,0301011U0BDAAAH,Neovent 25micrograms/dose inhaler CFC free (Teva),R03AC12,MDI,1,Discontinued,Complete
+2018,0302000C0BFAAAA,Beclazone 50 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2018,0303010Q0BBACAD,Intal 20mg Spincaps,R03BC01,DPI,1,Discontinued,Complete
+2018,0302000C0BIAFBK,Asmabec 250 Clickhaler,R03BA01,DPI,1,Discontinued,Complete
+2018,0302000K0BBAEAA,Pulmicort LS 50micrograms/dose inhaler,R03BA02,MDI,1,Discontinued,Complete
+2018,0301011R0BLABAK,Ventodisks 200microgram,R03AC02,DPI,1,Discontinued,Complete
+2018,0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler,R03BB01,MDI,1,Discontinued,Complete
+2018,0301011R0BYAAAP,Asmavent 100micrograms/dose inhaler CFC free,R03AC02,MDI,1,Discontinued,Complete
+2018,0302000C0BHAAAG,Becodisks 100microgram with Diskhaler,R03BA01,DPI,1,Discontinued,Complete
+2019,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,MDI,12534593,Discontinued,Complete
+2019,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,387585,Discontinued,Complete
+2019,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,DPI,375511,Discontinued,Complete
+2019,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,DPI,246120,Discontinued,Complete
+2019,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,MDI,234340,Discontinued,Complete
+2019,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,DPI,229052,Discontinued,Complete
+2019,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,DPI,145007,Discontinued,Complete
+2019,0302000N0AAAZAZ,Fluticasone propion 500mcg/Salmeterol 50mcg/dose dry pdr inh,R03AK06,DPI,108258,Discontinued,Complete
+2019,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler,R03AC02,MDI,67360,Discontinued,Complete
+2019,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,R03AL03,DPI,43670,Discontinued,Complete
+2019,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler,R03BA05,MDI,19635,Discontinued,Complete
+2019,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,R03BA05,MDI,17554,Discontinued,Complete
+2019,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler,R03BA05,DPI,17326,Discontinued,Complete
+2019,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler,R03AC02,MDI,14645,Discontinued,Complete
+2019,0302000N0BHAAAZ,Aerivio Spiromax 50microg / 500microg/dose dry pdr inh,R03AK06,DPI,10235,Discontinued,Complete
+2019,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,MDI,4946,Discontinued,Complete
+2019,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,MDI,2266,Discontinued,Complete
+2019,0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler,R03AK11,MDI,1829,Discontinued,Complete
+2019,0302000N0BDAEBQ,Flutiform K-haler 50microg/dose / 5microg/dose BA inh,R03AK11,MDI,1009,Discontinued,Complete
+2019,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device,R03AC13,DPI,979,Discontinued,Complete
+2019,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),R03AC12,MDI,942,Discontinued,Complete
+2019,0303010J0BBAFAD,Tilade 2mg/dose inhaler CFC free,R03BC03,MDI,587,Discontinued,Complete
+2019,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler,R03AC02,MDI,522,Discontinued,Complete
+2019,0301011U0BFAAAH,Vertine 25micrograms/dose inhaler CFC free,R03AC12,MDI,304,Discontinued,Complete
+2019,0301020I0BJAAAN,Ipravent 20micrograms/dose inhaler CFC free,R03BB01,MDI,85,Discontinued,Complete
+2019,0301011R0BZAAAP,AirSalb 100micrograms/dose inhaler CFC free,R03AC02,MDI,49,Discontinued,Complete
+2019,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler,R03BA01,MDI,35,Discontinued,Complete
+2019,0302000C0BFABAB,Beclazone 100 inhaler,R03BA01,MDI,19,Discontinued,Complete
+2019,0302000C0BFAGAR,Beclazone 200 inhaler,R03BA01,MDI,14,Discontinued,Complete
+2019,0302000C0BIAEBJ,Asmabec 100 Clickhaler,R03BA01,DPI,12,Discontinued,Complete
+2019,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler,R03BA01,MDI,11,Discontinued,Complete
+2019,0301011U0BBACAC,Serevent 25micrograms/dose inhaler,R03AC12,MDI,8,Discontinued,Complete
+2019,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler,R03BA01,MDI,8,Discontinued,Complete
+2019,0302000C0BLABBJ,Pulvinal Beclometasone Diprop 100microg/dose dry pdr inh,R03BA01,DPI,8,Discontinued,Complete
+2019,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow),R03AC02,MDI,8,Discontinued,Complete
+2019,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler,R03BA01,MDI,6,Discontinued,Complete
+2019,0301011U0BBAAAA,Serevent 50microgram disks with Diskhaler,R03AC12,DPI,3,Discontinued,Complete
+2019,0301011R0BTAAAQ,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler,R03AC02,DPI,3,Discontinued,Complete
+2019,0302000C0BCAQAR,Becotide 200 inhaler,R03BA01,MDI,2,Discontinued,Complete
+2019,0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler,R03BB01,MDI,2,Discontinued,Complete
+2019,0302000C0BFAAAA,Beclazone 50 inhaler,R03BA01,MDI,2,Discontinued,Complete
+2019,0301040X0BCAAAA,Yanimo Respimat 2.5microg/dose / 2.5microg/dose soln,R03AL06,SMI,2,Discontinued,Complete
+2019,0302000K0BBANBA,Pulmicort 200micrograms/dose inhaler CFC free,R03BA02,MDI,1,Discontinued,Complete
+2019,0301020I0BBAGAG,Atrovent 20micrograms/dose Autohaler,R03BB01,MDI,1,Discontinued,Complete
+2019,0302000C0BFADAS,Beclazone 50 Easi-Breathe inhaler,R03BA01,MDI,1,Discontinued,Complete
+2019,0302000C0BFACAC,Beclazone 250 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2019,0302000K0BBAEAA,Pulmicort LS 50micrograms/dose inhaler,R03BA02,MDI,1,Discontinued,Complete
+2019,0301011R0BJABAF,Asmasal 95micrograms/dose Clickhaler,R03AC02,DPI,1,Discontinued,Complete
+2020,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,MDI,12952597,Discontinued,Complete
+2020,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,347610,Discontinued,Complete
+2020,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,DPI,319697,Discontinued,Complete
+2020,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,DPI,261367,Discontinued,Complete
+2020,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,DPI,191987,Discontinued,Complete
+2020,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,MDI,191666,Discontinued,Complete
+2020,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,DPI,156817,Discontinued,Complete
+2020,0302000N0AAAZAZ,Fluticasone propion 500mcg/Salmeterol 50mcg/dose dry pdr inh,R03AK06,DPI,72319,Discontinued,Complete
+2020,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler,R03AC02,MDI,66699,Discontinued,Complete
+2020,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,R03AL03,DPI,37711,Discontinued,Complete
+2020,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler,R03BA05,MDI,22796,Discontinued,Complete
+2020,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,R03BA05,MDI,18744,Discontinued,Complete
+2020,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler,R03BA05,DPI,15805,Discontinued,Complete
+2020,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler,R03AC02,MDI,13935,Discontinued,Complete
+2020,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,MDI,4745,Discontinued,Complete
+2020,0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler,R03AK11,MDI,4259,Discontinued,Complete
+2020,0302000N0BDAEBQ,Flutiform K-haler 50microg/dose / 5microg/dose BA inh,R03AK11,MDI,2249,Discontinued,Complete
+2020,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,MDI,2211,Discontinued,Complete
+2020,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device,R03AC13,DPI,923,Discontinued,Complete
+2020,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),R03AC12,MDI,891,Discontinued,Complete
+2020,0302000N0BHAAAZ,Aerivio Spiromax 50microg / 500microg/dose dry pdr inh,R03AK06,DPI,437,Discontinued,Complete
+2020,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler,R03AC02,MDI,349,Discontinued,Complete
+2020,0303010J0BBAFAD,Tilade 2mg/dose inhaler CFC free,R03BC03,MDI,239,Discontinued,Complete
+2020,0301020I0BJAAAN,Ipravent 20micrograms/dose inhaler CFC free,R03BB01,MDI,123,Discontinued,Complete
+2020,0301040X0BCAAAA,Yanimo Respimat 2.5microg/dose / 2.5microg/dose soln,R03AL06,SMI,53,Discontinued,Complete
+2020,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler,R03BA01,MDI,44,Discontinued,Complete
+2020,0301011U0BFAAAH,Vertine 25micrograms/dose inhaler CFC free,R03AC12,MDI,29,Discontinued,Complete
+2020,0301011R0BZAAAP,AirSalb 100micrograms/dose inhaler CFC free,R03AC02,MDI,19,Discontinued,Complete
+2020,0302000C0BFABAB,Beclazone 100 inhaler,R03BA01,MDI,19,Discontinued,Complete
+2020,0302000C0BFAGAR,Beclazone 200 inhaler,R03BA01,MDI,11,Discontinued,Complete
+2020,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler,R03BA01,MDI,10,Discontinued,Complete
+2020,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler,R03BA01,MDI,8,Discontinued,Complete
+2020,0301011U0BBACAC,Serevent 25micrograms/dose inhaler,R03AC12,MDI,8,Discontinued,Complete
+2020,0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler,R03BB01,MDI,3,Discontinued,Complete
+2020,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler,R03BA01,MDI,3,Discontinued,Complete
+2020,0302000C0BCAHAB,Becotide 100 inhaler,R03BA01,MDI,2,Discontinued,Complete
+2020,0302000C0BCAQAR,Becotide 200 inhaler,R03BA01,MDI,2,Discontinued,Complete
+2020,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow),R03AC02,MDI,2,Discontinued,Complete
+2020,0301040R0BBAAAA,Combivent inhaler,R03AL02,MDI,2,Discontinued,Complete
+2020,0302000C0BLABBJ,Pulvinal Beclometasone Diprop 100microg/dose dry pdr inh,R03BA01,DPI,1,Discontinued,Complete
+2020,0301011R0BTAAAQ,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler,R03AC02,DPI,1,Discontinued,Complete
+2020,0302000K0BBADAD,Pulmicort 200micrograms/dose inhaler,R03BA02,MDI,1,Discontinued,Complete
+2020,0302000C0BHADAK,Becodisks 200microgram,R03BA01,DPI,1,Discontinued,Complete
+2020,0302000C0BFAAAA,Beclazone 50 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2020,0301011R0BLADAL,Ventodisks 400microgram,R03AC02,DPI,1,Discontinued,Complete
+2020,0303010Q0BBAFAB,Intal 5mg/dose inhaler,R03BC01,MDI,1,Discontinued,Complete
+2020,0301020I0BBAGAG,Atrovent 20micrograms/dose Autohaler,R03BB01,MDI,1,Discontinued,Complete
+2020,0302000C0BFAFAU,Beclazone 250 Easi-Breathe inhaler,R03BA01,MDI,1,Discontinued,Complete
+2020,0302000C0BIAEBJ,Asmabec 100 Clickhaler,R03BA01,DPI,1,Discontinued,Complete
+2020,0302000C0BHAFAQ,Becodisks 400microgram,R03BA01,DPI,1,Discontinued,Complete
+2020,0302000C0BFACAC,Beclazone 250 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2020,0302000C0BEACAT,AeroBec 100 Autohaler,R03BA01,MDI,1,Discontinued,Complete
+2021,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,MDI,12309571,Discontinued,Complete
+2021,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,303562,Discontinued,Complete
+2021,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,DPI,261108,Discontinued,Complete
+2021,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,DPI,250526,Discontinued,Complete
+2021,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,DPI,163205,Discontinued,Complete
+2021,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,MDI,160955,Discontinued,Complete
+2021,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,DPI,149041,Discontinued,Complete
+2021,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler,R03AC02,MDI,58813,Discontinued,Complete
+2021,0302000N0AAAZAZ,Fluticasone propion 500mcg/Salmeterol 50mcg/dose dry pdr inh,R03AK06,DPI,52418,Discontinued,Complete
+2021,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,R03AL03,DPI,31896,Discontinued,Complete
+2021,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler,R03BA05,MDI,21850,Discontinued,Complete
+2021,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,R03BA05,MDI,17419,Discontinued,Complete
+2021,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler,R03AC02,MDI,14208,Discontinued,Complete
+2021,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler,R03BA05,DPI,12181,Discontinued,Complete
+2021,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,MDI,3919,Discontinued,Complete
+2021,0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler,R03AK11,MDI,2353,Discontinued,Complete
+2021,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,MDI,1676,Discontinued,Complete
+2021,0302000N0BDAEBQ,Flutiform K-haler 50microg/dose / 5microg/dose BA inh,R03AK11,MDI,1445,Discontinued,Complete
+2021,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device,R03AC13,DPI,827,Discontinued,Complete
+2021,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),R03AC12,MDI,575,Discontinued,Complete
+2021,0302000W0BBAAAA,Enerzair Breezhaler 114microg / 46microg / 136microg/dose,R03AL12,DPI,534,Discontinued,Complete
+2021,0301020I0BJAAAN,Ipravent 20micrograms/dose inhaler CFC free,R03BB01,MDI,141,Discontinued,Complete
+2021,0301040X0BCAAAA,Yanimo Respimat 2.5microg/dose / 2.5microg/dose soln,R03AL06,SMI,79,Discontinued,Complete
+2021,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler,R03AC02,MDI,51,Discontinued,Complete
+2021,0302000N0BHAAAZ,Aerivio Spiromax 50microg / 500microg/dose dry pdr inh,R03AK06,DPI,32,Discontinued,Complete
+2021,0302000X0BBABAB,Atectura Breezhaler 125microg/127.5microg pdr caps,R03AK14,DPI,28,Discontinued,Complete
+2021,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler,R03BA01,MDI,24,Discontinued,Complete
+2021,0302000X0BBAAAA,Atectura Breezhaler 125microg/62.5microg inhalation pdr caps,R03AK14,DPI,22,Discontinued,Complete
+2021,0302000C0BFABAB,Beclazone 100 inhaler,R03BA01,MDI,17,Discontinued,Complete
+2021,0301011R0BZAAAP,AirSalb 100micrograms/dose inhaler CFC free,R03AC02,MDI,12,Discontinued,Complete
+2021,0303010J0BBAFAD,Tilade 2mg/dose inhaler CFC free,R03BC03,MDI,11,Discontinued,Complete
+2021,0302000X0BBACAC,Atectura Breezhaler 125microg/260microg inhalation pdr caps,R03AK14,DPI,6,Discontinued,Complete
+2021,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler,R03BA01,MDI,6,Discontinued,Complete
+2021,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler,R03BA01,MDI,5,Discontinued,Complete
+2021,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler,R03BA01,MDI,4,Discontinued,Complete
+2021,0301011U0BBACAC,Serevent 25micrograms/dose inhaler,R03AC12,MDI,3,Discontinued,Complete
+2021,0302000C0BLABBJ,Pulvinal Beclometasone Diprop 100microg/dose dry pdr inh,R03BA01,DPI,2,Discontinued,Complete
+2021,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow),R03AC02,MDI,1,Discontinued,Complete
+2021,0301011R0BTAAAQ,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler,R03AC02,DPI,1,Discontinued,Complete
+2021,0301011U0BFAAAH,Vertine 25micrograms/dose inhaler CFC free,R03AC12,MDI,1,Discontinued,Complete
+2021,0302000C0BCAQAR,Becotide 200 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2021,0302000C0BFAGAR,Beclazone 200 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2021,0302000C0BBAAAC,Becloforte 250micrograms/dose inhaler,R03BA01,MDI,1,Discontinued,Complete
+2022,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,MDI,10872399,Discontinued,Complete
+2022,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,266646,Discontinued,Complete
+2022,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,DPI,234753,Discontinued,Complete
+2022,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,DPI,209431,Discontinued,Complete
+2022,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,DPI,157920,Discontinued,Complete
+2022,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,DPI,143854,Discontinued,Complete
+2022,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,MDI,140222,Discontinued,Complete
+2022,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler,R03AC02,MDI,57652,Discontinued,Complete
+2022,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler,R03AC02,MDI,35781,Discontinued,Complete
+2022,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,R03AL03,DPI,28273,Discontinued,Complete
+2022,0302000N0AAAZAZ,Fluticasone propion 500mcg/Salmeterol 50mcg/dose dry pdr inh,R03AK06,DPI,26595,Discontinued,Complete
+2022,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler,R03BA05,MDI,21587,Discontinued,Complete
+2022,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,R03BA05,MDI,16636,Discontinued,Complete
+2022,0302000N0AAAZAZ,Fluticasone propionate 500microg/Salmeterol 50microg/dose,R03AK06,DPI,11583,Discontinued,Complete
+2022,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler,R03BA05,DPI,10568,Discontinued,Complete
+2022,0302000W0BBAAAA,Enerzair Breezhaler 114microg / 46microg / 136microg/dose,R03AL12,DPI,5621,Discontinued,Complete
+2022,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,MDI,756,Discontinued,Complete
+2022,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device,R03AC13,DPI,749,Discontinued,Complete
+2022,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),R03AC12,MDI,325,Discontinued,Complete
+2022,0302000X0BBAAAA,Atectura Breezhaler 125microg/62.5microg inhalation pdr caps,R03AK14,DPI,299,Discontinued,Complete
+2022,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,MDI,257,Discontinued,Complete
+2022,0302000X0BBABAB,Atectura Breezhaler 125microg/127.5microg pdr caps,R03AK14,DPI,201,Discontinued,Complete
+2022,0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler,R03AK11,MDI,74,Discontinued,Complete
+2022,0302000X0BBACAC,Atectura Breezhaler 125microg/260microg inhalation pdr caps,R03AK14,DPI,59,Discontinued,Complete
+2022,0301020I0BJAAAN,Ipravent 20micrograms/dose inhaler CFC free,R03BB01,MDI,49,Discontinued,Complete
+2022,0302000N0BDAEBQ,Flutiform K-haler 50microg/dose / 5microg/dose BA inh,R03AK11,MDI,44,Discontinued,Complete
+2022,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler,R03BA01,MDI,30,Discontinued,Complete
+2022,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler,R03AC02,MDI,30,Discontinued,Complete
+2022,0302000C0BFABAB,Beclazone 100 inhaler,R03BA01,MDI,20,Discontinued,Complete
+2022,0301011U0BBACAC,Serevent 25micrograms/dose inhaler,R03AC12,MDI,13,Discontinued,Complete
+2022,0301040X0BCAAAA,Yanimo Respimat 2.5microg/dose / 2.5microg/dose soln,R03AL06,SMI,12,Discontinued,Complete
+2022,0302000C0BFAGAR,Beclazone 200 inhaler,R03BA01,MDI,11,Discontinued,Complete
+2022,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler,R03BA01,MDI,9,Discontinued,Complete
+2022,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler,R03BA01,MDI,5,Discontinued,Complete
+2022,0302000N0BHAAAZ,Aerivio Spiromax 50microg / 500microg/dose dry pdr inh,R03AK06,DPI,5,Discontinued,Complete
+2022,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler,R03BA01,MDI,4,Discontinued,Complete
+2022,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow),R03AC02,MDI,3,Discontinued,Complete
+2022,0302000C0BFACAC,Beclazone 250 inhaler,R03BA01,MDI,3,Discontinued,Complete
+2022,0302000N0BQABBS,Seffalair Spiromax 12.75microg / 202microg/dose dry pdr inh,R03AK06,DPI,2,Discontinued,Complete
+2022,0302000C0BFAAAA,Beclazone 50 inhaler,R03BA01,MDI,2,Discontinued,Complete
+2022,0301011R0BKADAD,Aerolin 100micrograms/dose Autohaler,R03AC02,MDI,1,Discontinued,Complete
+2022,0301040R0BBAAAA,Combivent inhaler,R03AL02,MDI,1,Discontinued,Complete
+2022,0302000N0BQAABR,Seffalair Spiromax 12.75microg / 100microg/dose dry pdr inh,R03AK06,DPI,1,Discontinued,Complete
+2022,0302000K0BBAMAZ,Pulmicort 100micrograms/dose inhaler CFC free,R03BA02,MDI,1,Discontinued,Complete
+2022,0302000C0BCAIAA,Becotide 50 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2022,0302000K0BBADAD,Pulmicort 200micrograms/dose inhaler,R03BA02,MDI,1,Discontinued,Complete
+2023,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,MDI,7315130,Discontinued,Complete
+2023,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,231014,Discontinued,Complete
+2023,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,DPI,211916,Discontinued,Complete
+2023,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,DPI,166079,Discontinued,Complete
+2023,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,DPI,164841,Discontinued,Complete
+2023,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,DPI,120491,Discontinued,Complete
+2023,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,MDI,119562,Discontinued,Complete
+2023,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler,R03AC02,MDI,57830,Discontinued,Complete
+2023,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler,R03AC02,MDI,53909,Discontinued,Complete
+2023,0302000N0AAAZAZ,Fluticasone propionate 500microg/Salmeterol 50microg/dose,R03AK06,DPI,27715,Discontinued,Complete
+2023,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,R03AL03,DPI,25416,Discontinued,Complete
+2023,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler,R03BA05,MDI,21438,Discontinued,Complete
+2023,0302000W0BBAAAA,Enerzair Breezhaler 114microg / 46microg / 136microg/dose,R03AL12,DPI,15683,Discontinued,Complete
+2023,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,R03BA05,MDI,15560,Discontinued,Complete
+2023,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler,R03BA05,DPI,9528,Discontinued,Complete
+2023,0302000C0BVAABF,Beclu 100micrograms/dose inhaler,R03BA01,MDI,1356,Discontinued,Complete
+2023,0302000X0BBAAAA,Atectura Breezhaler 125microg/62.5microg inhalation pdr caps,R03AK14,DPI,682,Discontinued,Complete
+2023,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device,R03AC13,DPI,676,Discontinued,Complete
+2023,0302000X0BBABAB,Atectura Breezhaler 125microg/127.5microg pdr caps,R03AK14,DPI,423,Discontinued,Complete
+2023,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),R03AC12,MDI,275,Discontinued,Complete
+2023,0302000C0BVABBV,Beclu 200micrograms/dose inhaler,R03BA01,MDI,256,Discontinued,Complete
+2023,0302000X0BBACAC,Atectura Breezhaler 125microg/260microg inhalation pdr caps,R03AK14,DPI,212,Discontinued,Complete
+2023,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,MDI,88,Discontinued,Complete
+2023,0302000N0BQAABR,Seffalair Spiromax 12.75microg / 100microg/dose dry pdr inh,R03AK06,DPI,38,Discontinued,Complete
+2023,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,MDI,29,Discontinued,Complete
+2023,0302000N0BQABBS,Seffalair Spiromax 12.75microg / 202microg/dose dry pdr inh,R03AK06,DPI,22,Discontinued,Complete
+2023,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler,R03BA01,MDI,16,Discontinued,Complete
+2023,0302000N0BRABAY,Campona Airmaster 50microg/dose / 250microg/dose dry pdr inh,R03AK06,DPI,16,Discontinued,Complete
+2023,0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler,R03AK11,MDI,11,Discontinued,Complete
+2023,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler,R03AC02,MDI,10,Discontinued,Complete
+2023,0301011U0BBACAC,Serevent 25micrograms/dose inhaler,R03AC12,MDI,9,Discontinued,Complete
+2023,0302000N0BRAAAX,Campona Airmaster 50microg/dose / 100microg/dose dry pdr inh,R03AK06,DPI,9,Discontinued,Complete
+2023,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler,R03BA01,MDI,8,Discontinued,Complete
+2023,0302000K0BKABAU,GoResp Digihaler 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,8,Discontinued,Complete
+2023,0301020I0BJAAAN,Ipravent 20micrograms/dose inhaler CFC free,R03BB01,MDI,7,Discontinued,Complete
+2023,0302000K0BKAAAM,GoResp Digihaler 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,DPI,7,Discontinued,Complete
+2023,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler,R03BA01,MDI,3,Discontinued,Complete
+2023,0302000N0BDAEBQ,Flutiform K-haler 50microg/dose / 5microg/dose BA inh,R03AK11,MDI,3,Discontinued,Complete
+2023,0302000C0BFAGAR,Beclazone 200 inhaler,R03BA01,MDI,2,Discontinued,Complete
+2023,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow),R03AC02,MDI,2,Discontinued,Complete
+2023,0302000C0BFABAB,Beclazone 100 inhaler,R03BA01,MDI,2,Discontinued,Complete
+2023,0302000C0BCAHAB,Becotide 100 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2023,0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler,R03BB01,MDI,1,Discontinued,Complete
+2024,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,MDI,6059535,Discontinued,Complete
+2024,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,199251,Discontinued,Complete
+2024,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,DPI,190249,Discontinued,Complete
+2024,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,DPI,163992,Discontinued,Complete
+2024,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,DPI,133786,Discontinued,Complete
+2024,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,DPI,101150,Discontinued,Complete
+2024,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,MDI,100096,Discontinued,Complete
+2024,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler,R03AC02,MDI,59931,Discontinued,Complete
+2024,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler,R03AC02,MDI,50582,Discontinued,Complete
+2024,0302000W0BBAAAA,Enerzair Breezhaler 114microg / 46microg / 136microg/dose,R03AL12,DPI,23611,Discontinued,Complete
+2024,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,R03AL03,DPI,23100,Discontinued,Complete
+2024,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler,R03BA05,MDI,21096,Discontinued,Complete
+2024,0302000N0AAAZAZ,Fluticasone propionate 500microg/Salmeterol 50microg/dose,R03AK06,DPI,20186,Discontinued,Complete
+2024,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,R03BA05,MDI,13418,Discontinued,Complete
+2024,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler,R03BA05,DPI,7998,Discontinued,Complete
+2024,0302000C0BVAABF,Beclu 100micrograms/dose inhaler,R03BA01,MDI,7556,Discontinued,Complete
+2024,0302000C0BVABBV,Beclu 200micrograms/dose inhaler,R03BA01,MDI,1846,Discontinued,Complete
+2024,0302000X0BBABAB,Atectura Breezhaler 125microg/127.5microg pdr caps,R03AK14,DPI,443,Discontinued,Complete
+2024,0302000X0BBACAC,Atectura Breezhaler 125microg/260microg inhalation pdr caps,R03AK14,DPI,413,Discontinued,Complete
+2024,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device,R03AC13,DPI,144,Discontinued,Complete
+2024,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),R03AC12,MDI,97,Discontinued,Complete
+2024,0302000X0BBAAAA,Atectura Breezhaler 125microg/62.5microg inhalation pdr caps,R03AK14,DPI,84,Discontinued,Complete
+2024,0302000N0BRABAY,Campona Airmaster 50microg/dose / 250microg/dose dry pdr inh,R03AK06,DPI,66,Discontinued,Complete
+2024,0302000N0BRAAAX,Campona Airmaster 50microg/dose / 100microg/dose dry pdr inh,R03AK06,DPI,61,Discontinued,Complete
+2024,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler,R03BA01,MDI,27,Discontinued,Complete
+2024,0301011U0BBACAC,Serevent 25micrograms/dose inhaler,R03AC12,MDI,24,Discontinued,Complete
+2024,0302000K0BKAAAM,GoResp Digihaler 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,DPI,23,Discontinued,Complete
+2024,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,MDI,20,Discontinued,Complete
+2024,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler,R03AC02,MDI,17,Discontinued,Complete
+2024,0302000K0BKABAU,GoResp Digihaler 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,15,Discontinued,Complete
+2024,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler,R03BA01,MDI,9,Discontinued,Complete
+2024,0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler,R03AK11,MDI,8,Discontinued,Complete
+2024,0302000N0BQABBS,Seffalair Spiromax 12.75microg / 202microg/dose dry pdr inh,R03AK06,DPI,5,Discontinued,Complete
+2024,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler,R03BA01,MDI,4,Discontinued,Complete
+2024,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,MDI,2,Discontinued,Complete
+2024,0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler,R03BB01,MDI,2,Discontinued,Complete
+2024,0302000N0BQAABR,Seffalair Spiromax 12.75microg / 100microg/dose dry pdr inh,R03AK06,DPI,2,Discontinued,Complete
+2024,0302000K0BBADAD,Pulmicort 200micrograms/dose inhaler,R03BA02,MDI,1,Discontinued,Complete
+2024,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow),R03AC02,MDI,1,Discontinued,Complete
+2024,0302000C0BFAEAT,Beclazone 100 Easi-Breathe inhaler,R03BA01,MDI,1,Discontinued,Complete
+2024,0301011R0BDAEAP,Salbulin 100micrograms/dose inhaler,R03AC02,MDI,1,Discontinued,Complete
+2024,0302000C0BFAGAR,Beclazone 200 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2024,0302000K0BBANBA,Pulmicort 200micrograms/dose inhaler CFC free,R03BA02,MDI,1,Discontinued,Complete
+2024,0302000C0BHADAK,Becodisks 200microgram,R03BA01,DPI,1,Discontinued,Complete
+2024,0302000C0BCAQAR,Becotide 200 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2025,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,MDI,4856865,Discontinued,Complete
+2025,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,166673,Discontinued,Complete
+2025,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,DPI,162125,Discontinued,Complete
+2025,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,DPI,143751,Discontinued,Complete
+2025,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,DPI,104293,Discontinued,Complete
+2025,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,DPI,82855,Discontinued,Complete
+2025,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,MDI,79644,Discontinued,Complete
+2025,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler,R03AC02,MDI,29693,Discontinued,Complete
+2025,0302000W0BBAAAA,Enerzair Breezhaler 114microg / 46microg / 136microg/dose,R03AL12,DPI,27641,Discontinued,Complete
+2025,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler,R03AC02,MDI,25785,Discontinued,Complete
+2025,0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,R03AL03,DPI,21010,Discontinued,Complete
+2025,0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler,R03BA05,MDI,18205,Discontinued,Complete
+2025,0302000N0AAAZAZ,Fluticasone propionate 500microg/Salmeterol 50microg/dose,R03AK06,DPI,14593,Discontinued,Complete
+2025,0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler,R03BA05,MDI,11723,Discontinued,Complete
+2025,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler,R03BA05,DPI,5906,Discontinued,Complete
+2025,0302000C0BVAABF,Beclu 100micrograms/dose inhaler,R03BA01,MDI,2424,Discontinued,Complete
+2025,0302000C0BVABBV,Beclu 200micrograms/dose inhaler,R03BA01,MDI,825,Discontinued,Complete
+2025,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler,R03AC02,MDI,246,Discontinued,Complete
+2025,0302000N0BRABAY,Campona Airmaster 50microg/dose / 250microg/dose dry pdr inh,R03AK06,DPI,129,Discontinued,Complete
+2025,0302000X0BBACAC,Atectura Breezhaler 125microg/260microg inhalation pdr caps,R03AK14,DPI,123,Discontinued,Complete
+2025,0302000N0BRAAAX,Campona Airmaster 50microg/dose / 100microg/dose dry pdr inh,R03AK06,DPI,44,Discontinued,Complete
+2025,0302000X0BBABAB,Atectura Breezhaler 125microg/127.5microg pdr caps,R03AK14,DPI,41,Discontinued,Complete
+2025,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device,R03AC13,DPI,24,Discontinued,Complete
+2025,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler,R03BA01,MDI,21,Discontinued,Complete
+2025,0301011U0BBACAC,Serevent 25micrograms/dose inhaler,R03AC12,MDI,14,Discontinued,Complete
+2025,0302000X0BBAAAA,Atectura Breezhaler 125microg/62.5microg inhalation pdr caps,R03AK14,DPI,13,Discontinued,Complete
+2025,0302000K0BKAAAM,GoResp Digihaler 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,DPI,11,Discontinued,Complete
+2025,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),R03AC12,MDI,10,Discontinued,Complete
+2025,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,MDI,4,Discontinued,Complete
+2025,0302000K0BKABAU,GoResp Digihaler 320microg/dose / 9microg/dose dry pdr inh,R03AK07,DPI,4,Discontinued,Complete
+2025,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler,R03BA01,MDI,3,Discontinued,Complete
+2025,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler,R03BA01,MDI,3,Discontinued,Complete
+2025,0302000C0BFABAB,Beclazone 100 inhaler,R03BA01,MDI,2,Discontinued,Complete
+2025,0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler,R03AK11,MDI,2,Discontinued,Complete
+2025,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,MDI,2,Discontinued,Complete
+2025,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler,R03BA01,MDI,1,Discontinued,Complete
+2025,0302000C0BCAIAA,Becotide 50 inhaler,R03BA01,MDI,1,Discontinued,Complete
+2025,0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler,R03BB01,MDI,1,Discontinued,Complete

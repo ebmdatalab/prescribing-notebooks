@@ -9,7 +9,6 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2016,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair,R03BB05,Anticholinergic,DPI,198558
 2016,0301020T0BBAAAA,Incruse Ellipta 55micrograms/dose dry powder inhaler,R03BB07,Anticholinergic,DPI,197009
 2016,0301020R0AAAAAA,Aclidinium bromide 375micrograms/dose dry powder inhaler,R03BB05,Anticholinergic,DPI,142676
-2016,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,2095744
 2016,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1168198
 2016,0302000N0BCACAZ,Seretide 500 Accuhaler,R03AK06,Combi_1,DPI,957603
 2016,0302000K0BDACAU,Symbicort 400/12 Turbohaler,R03AK07,Combi_1,DPI,699274
@@ -19,6 +18,7 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2016,0302000K0AAAMAM,Budesonide 200mcg/dose / Formoterol 6mcg/dose dry powder inh,R03AK07,Combi_1,DPI,570328
 2016,0302000N0AABFBF,Fluticasone 125mcg/dose / Salmeterol 25mcg/dose inh CFC free,R03AK06,Combi_1,MDI,535561
 2016,0302000N0BCAEBF,Seretide 125 Evohaler,R03AK06,Combi_1,MDI,515818
+2016,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,379538
 2016,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,136732
 2016,0301040V0BBAAAA,Duaklir 340micrograms/dose / 12micrograms/dose Genuair,R03AL05,Combi_2,DPI,55085
 2016,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,Combi_2,DPI,38827
@@ -78,7 +78,6 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2017,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,344926
 2017,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,Anticholinergic,DPI,331451
 2017,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair,R03BB05,Anticholinergic,DPI,251911
-2017,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,2744216
 2017,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1132023
 2017,0302000N0BCACAZ,Seretide 500 Accuhaler,R03AK06,Combi_1,DPI,786326
 2017,0302000K0BDACAU,Symbicort 400/12 Turbohaler,R03AK07,Combi_1,DPI,633049
@@ -88,6 +87,7 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2017,0302000N0BCAEBF,Seretide 125 Evohaler,R03AK06,Combi_1,MDI,508050
 2017,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,Combi_1,DPI,435857
 2017,0302000N0BFABBG,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler,R03AK06,Combi_1,MDI,384953
+2017,0302000N0AABGBG,Fluticasone 250mcg/dose / Salmeterol 25mcg/dose inh CFC free,R03AK06,Combi_1,MDI,362009
 2017,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,282226
 2017,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,Combi_2,DPI,130454
 2017,0301040V0BBAAAA,Duaklir 340micrograms/dose / 12micrograms/dose Genuair,R03AL05,Combi_2,DPI,118622
@@ -145,16 +145,16 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2018,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,288481
 2018,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair,R03BB05,Anticholinergic,DPI,263634
 2018,0301020Q0AAAAAA,Tiotropium bromide 18microgram inhalation pdr caps with dev,R03BB04,Anticholinergic,DPI,216899
-2018,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,3311374
 2018,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1129115
 2018,0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,700158
 2018,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,608886
 2018,0302000N0BCACAZ,Seretide 500 Accuhaler,R03AK06,Combi_1,DPI,590292
-2018,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,584998
 2018,0302000K0BDACAU,Symbicort 400/12 Turbohaler,R03AK07,Combi_1,DPI,566821
 2018,0302000N0BCAFBG,Seretide 250 Evohaler,R03AK06,Combi_1,MDI,501317
 2018,0302000N0BCAEBF,Seretide 125 Evohaler,R03AK06,Combi_1,MDI,453898
 2018,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,Combi_1,DPI,453278
+2018,0302000N0BFABBG,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler,R03AK06,Combi_1,MDI,358857
+2018,0302000N0BCADBE,Seretide 50 Evohaler,R03AK06,Combi_1,MDI,334639
 2018,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,435957
 2018,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,Combi_2,DPI,211101
 2018,0302000AABBAAAA,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,195747
@@ -190,9 +190,9 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2018,0303010J0AAADAD,Nedocromil 2mg/dose inhaler CFC free,R03BC03,OTHER,MDI,1692
 2018,0303010J0BBAFAD,Tilade 2mg/dose inhaler CFC free,R03BC03,OTHER,MDI,638
 2018,0307000R0BBAAAA,Bronchitol 40mg inhalation powder capsules with two devices,R05CB16,OTHER,DPI,7
+2018,0307000R0AAAAAA,Mannitol 40mg inhalation powder capsules with two devices,R05CB16,OTHER,DPI,1
 2018,0303010Q0BBACAD,Intal 20mg Spincaps,R03BC01,OTHER,DPI,1
 2018,0303010Q0AAABAB,Sodium cromoglicate 5mg/dose inhaler,R03BC01,OTHER,MDI,1
-2018,0307000R0AAAAAA,Mannitol 40mg inhalation powder capsules with two devices,R05CB16,OTHER,DPI,1
 2018,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,SABA,MDI,12215290
 2018,0301011R0BEAIAP,Ventolin 100micrograms/dose Evohaler,R03AC02,SABA,MDI,6331586
 2018,0301011R0AABUBU,Salbutamol 100micrograms/dose breath actuated inh CFC free,R03AC02,SABA,MDI,813155
@@ -213,16 +213,16 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2019,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair,R03BB05,Anticholinergic,DPI,231335
 2019,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,229052
 2019,0301020Q0AAAAAA,Tiotropium bromide 18microgram inhalation pdr caps with dev,R03BB04,Anticholinergic,DPI,150118
-2019,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,3658587
 2019,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1122872
-2019,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,818850
 2019,0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,706634
 2019,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,582153
 2019,0302000K0BDACAU,Symbicort 400/12 Turbohaler,R03AK07,Combi_1,DPI,492748
-2019,0302000C0BRAABY,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh,R03AK08,Combi_1,DPI,485526
 2019,0302000N0BCACAZ,Seretide 500 Accuhaler,R03AK06,Combi_1,DPI,439748
 2019,0302000N0BCAFBG,Seretide 250 Evohaler,R03AK06,Combi_1,MDI,409696
 2019,0302000N0BCAEBF,Seretide 125 Evohaler,R03AK06,Combi_1,MDI,406654
+2019,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,Combi_1,DPI,387585
+2019,0302000N0BCADBE,Seretide 50 Evohaler,R03AK06,Combi_1,MDI,329188
+2019,0302000N0BFABBG,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler,R03AK06,Combi_1,MDI,278760
 2019,0302000AABBAAAA,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,696166
 2019,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,616022
 2019,0302000Z0BBAAAA,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh,R03AL08,Combi_2,DPI,610923
@@ -279,16 +279,16 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2020,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,191987
 2020,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,Anticholinergic,MDI,191666
 2020,0301020Q0AAAAAA,Tiotropium bromide 18microgram inhalation pdr caps with dev,R03BB04,Anticholinergic,DPI,116694
-2020,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,4116589
 2020,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1197129
-2020,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,1105188
 2020,0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,721374
 2020,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,590865
-2020,0302000C0BRAABY,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh,R03AK08,Combi_1,DPI,565766
 2020,0302000K0BDACAU,Symbicort 400/12 Turbohaler,R03AK07,Combi_1,DPI,457390
 2020,0302000N0BCAEBF,Seretide 125 Evohaler,R03AK06,Combi_1,MDI,399780
 2020,0302000N0BCAFBG,Seretide 250 Evohaler,R03AK06,Combi_1,MDI,367449
 2020,0302000N0BCACAZ,Seretide 500 Accuhaler,R03AK06,Combi_1,DPI,356376
+2020,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,Combi_1,DPI,347610
+2020,0302000N0BCADBE,Seretide 50 Evohaler,R03AK06,Combi_1,MDI,345741
+2020,0302000K0BDAAAL,Symbicort 100/6 Turbohaler,R03AK07,Combi_1,DPI,301466
 2020,0302000AABBAAAA,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,1184522
 2020,0302000Z0BBAAAA,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh,R03AL08,Combi_2,DPI,939254
 2020,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,770223
@@ -345,16 +345,16 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2021,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair,R03BB05,Anticholinergic,DPI,167854
 2021,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,163205
 2021,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,Anticholinergic,MDI,160955
-2021,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,4272539
-2021,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,1272874
 2021,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1147588
 2021,0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,673257
-2021,0302000C0BRAABY,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh,R03AK08,Combi_1,DPI,588237
 2021,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,539412
 2021,0302000K0BDACAU,Symbicort 400/12 Turbohaler,R03AK07,Combi_1,DPI,409517
 2021,0302000N0BCAEBF,Seretide 125 Evohaler,R03AK06,Combi_1,MDI,366144
 2021,0302000N0BCAFBG,Seretide 250 Evohaler,R03AK06,Combi_1,MDI,328709
 2021,0302000N0BCADBE,Seretide 50 Evohaler,R03AK06,Combi_1,MDI,316360
+2021,0302000V0BBAAAA,Relvar Ellipta 184microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,310854
+2021,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,Combi_1,DPI,303562
+2021,0302000K0BDAAAL,Symbicort 100/6 Turbohaler,R03AK07,Combi_1,DPI,299531
 2021,0302000AABBAAAA,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,1517883
 2021,0302000Z0BBAAAA,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh,R03AL08,Combi_2,DPI,1077143
 2021,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,828252
@@ -411,16 +411,16 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2022,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,143854
 2022,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair,R03BB05,Anticholinergic,DPI,141175
 2022,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,Anticholinergic,MDI,140222
-2022,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,4248066
-2022,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,1383688
 2022,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1153853
-2022,0302000C0BRAABY,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh,R03AK08,Combi_1,DPI,810702
 2022,0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,655967
 2022,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,507166
 2022,0302000K0BDACAU,Symbicort 400/12 Turbohaler,R03AK07,Combi_1,DPI,365080
 2022,0302000N0BCAEBF,Seretide 125 Evohaler,R03AK06,Combi_1,MDI,349512
 2022,0302000V0BBAAAA,Relvar Ellipta 184microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,336846
 2022,0302000K0BDAAAL,Symbicort 100/6 Turbohaler,R03AK07,Combi_1,DPI,322851
+2022,0302000N0BCADBE,Seretide 50 Evohaler,R03AK06,Combi_1,MDI,316115
+2022,0302000N0BCAFBG,Seretide 250 Evohaler,R03AK06,Combi_1,MDI,298093
+2022,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,Combi_1,DPI,266646
 2022,0302000AABBAAAA,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,1868295
 2022,0302000Z0BBAAAA,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh,R03AL08,Combi_2,DPI,1242688
 2022,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,924664
@@ -476,16 +476,16 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2023,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,120491
 2023,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,Anticholinergic,MDI,119562
 2023,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair,R03BB05,Anticholinergic,DPI,112919
-2023,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,3813446
-2023,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,1339036
-2023,0302000C0BRAABY,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh,R03AK08,Combi_1,DPI,1256597
 2023,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1184400
 2023,0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,653814
-2023,0302000C0BUAABX,Luforbec 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,518979
 2023,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,478078
-2023,0302000C0BRABCA,Fostair NEXThaler 200microg/dose / 6microg/dose dry pdr inh,R03AK08,Combi_1,DPI,377340
 2023,0302000K0BDAAAL,Symbicort 100/6 Turbohaler,R03AK07,Combi_1,DPI,363952
 2023,0302000V0BBAAAA,Relvar Ellipta 184microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,353735
+2023,0302000K0BDACAU,Symbicort 400/12 Turbohaler,R03AK07,Combi_1,DPI,325133
+2023,0302000N0BCAEBF,Seretide 125 Evohaler,R03AK06,Combi_1,MDI,318947
+2023,0302000N0BCADBE,Seretide 50 Evohaler,R03AK06,Combi_1,MDI,308373
+2023,0302000N0BCAFBG,Seretide 250 Evohaler,R03AK06,Combi_1,MDI,261642
+2023,0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,R03AK07,Combi_1,DPI,231014
 2023,0302000AABBAAAA,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,2109057
 2023,0302000Z0BBAAAA,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh,R03AL08,Combi_2,DPI,1407956
 2023,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,1076797
@@ -541,16 +541,16 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2024,0301020Q0AAABAB,Tiotropium bromide 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,100133
 2024,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,Anticholinergic,MDI,100096
 2024,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair,R03BB05,Anticholinergic,DPI,90293
-2024,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,3521054
-2024,0302000C0BRAABY,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh,R03AK08,Combi_1,DPI,1548697
 2024,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1343648
-2024,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,1212720
-2024,0302000C0BUAABX,Luforbec 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,1015505
 2024,0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,640104
 2024,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,455603
 2024,0302000K0BDAAAL,Symbicort 100/6 Turbohaler,R03AK07,Combi_1,DPI,435728
-2024,0302000C0BRABCA,Fostair NEXThaler 200microg/dose / 6microg/dose dry pdr inh,R03AK08,Combi_1,DPI,418945
 2024,0302000V0BBAAAA,Relvar Ellipta 184microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,354085
+2024,0302000N0BCAEBF,Seretide 125 Evohaler,R03AK06,Combi_1,MDI,298462
+2024,0302000N0BCADBE,Seretide 50 Evohaler,R03AK06,Combi_1,MDI,296191
+2024,0302000K0BDACAU,Symbicort 400/12 Turbohaler,R03AK07,Combi_1,DPI,293174
+2024,0302000K0BIABAM,Fobumix Easyhaler 160microg / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,250790
+2024,0302000N0BCAFBG,Seretide 250 Evohaler,R03AK06,Combi_1,MDI,227754
 2024,0302000AABBAAAA,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,2353585
 2024,0302000Z0BBAAAA,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh,R03AL08,Combi_2,DPI,1522346
 2024,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,1220639
@@ -584,8 +584,8 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2024,0307000R0BBAAAA,Bronchitol 40mg inhalation powder capsules with two devices,R05CB16,OTHER,DPI,21
 2024,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,OTHER,MDI,20
 2024,0303010Q0AAABAB,Sodium cromoglicate 5mg/dose inhaler,R03BC01,OTHER,MDI,4
-2024,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,OTHER,MDI,2
 2024,0307000R0AAAAAA,Mannitol 40mg inhalation powder capsules with two devices,R05CB16,OTHER,DPI,2
+2024,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,OTHER,MDI,2
 2024,0301011R0BIAFAP,Salamol 100micrograms/dose inhaler CFC free (Teva),R03AC02,SABA,MDI,8282376
 2024,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,SABA,MDI,6059535
 2024,0301011R0BEAIAP,Ventolin 100micrograms/dose Evohaler,R03AC02,SABA,MDI,3181911
@@ -596,67 +596,67 @@ year,bnf_code,bnf_name,atc_code,cat,type,total_items
 2024,0301011V0AABBBB,Terbutaline 500micrograms/dose dry powder inhaler,R03AC03,SABA,DPI,188746
 2024,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,SABA,DPI,163992
 2024,0301011R0BWABAQ,Easyhaler Salbutamol sulfate 200micrograms/dose dry pdr inh,R03AC02,SABA,DPI,88752
-2025,0301020Q0BBACAC,Spiriva Respimat 2.5microg/dose inhalation soln,R03BB04,Anticholinergic,SMI,566661
-2025,0301020Q0BCAAAD,Braltus 10microgram inhalation pdr caps with Zonda inhaler,R03BB04,Anticholinergic,DPI,379044
-2025,0301020Q0BBADAE,Spiriva Respimat 2.5microg/dose inhalation soln refill cart,R03BB04,Anticholinergic,SMI,366984
-2025,0301020T0BBAAAA,Incruse Ellipta 55micrograms/dose dry powder inhaler,R03BB07,Anticholinergic,DPI,278429
-2025,0301020Q0AAACAC,Tiotropium brom 2.5microg/dose soln for inhalation CFCfree,R03BB04,Anticholinergic,SMI,100467
-2025,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,Anticholinergic,DPI,96080
-2025,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,76130
-2025,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,Anticholinergic,MDI,72835
-2025,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair,R03BB05,Anticholinergic,DPI,65936
-2025,0301020Q0AAABAB,Tiotropium bromide 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,65607
-2025,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,2975200
-2025,0302000C0BRAABY,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh,R03AK08,Combi_1,DPI,1738860
-2025,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1559060
-2025,0302000C0BUAABX,Luforbec 100micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,1286381
-2025,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler,R03AK08,Combi_1,MDI,950930
-2025,0302000K0BDAAAL,Symbicort 100/6 Turbohaler,R03AK07,Combi_1,DPI,526334
-2025,0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,524698
-2025,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,440360
-2025,0302000K0BIABAM,Fobumix Easyhaler 160microg / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,391343
-2025,0302000C0BRABCA,Fostair NEXThaler 200microg/dose / 6microg/dose dry pdr inh,R03AK08,Combi_1,DPI,385430
-2025,0302000AABBAAAA,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,2252999
-2025,0302000Z0BBAAAA,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh,R03AL08,Combi_2,DPI,1450567
-2025,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,1210775
-2025,0302000AABBACAC,Trimbow NEXThaler 88microg/5microg/9microg/dose dry pdr inh,R03AL09,Combi_2,DPI,528754
-2025,0302000AABBABAB,Trimbow 172microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,480652
-2025,0302000Y0BBAAAA,Trixeo Aerosphere 5microg / 7.2microg / 160microg/dose inh,R03AL11,Combi_2,MDI,334627
-2025,0301040X0BBAAAA,Spiolto Respimat 2.5microg/dose/2.5microg/dose soln,R03AL06,Combi_2,SMI,176868
-2025,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,Combi_2,DPI,148742
-2025,0301040V0BBAAAA,Duaklir 340micrograms/dose / 12micrograms/dose Genuair,R03AL05,Combi_2,DPI,136845
-2025,0301040X0BBABAB,Spiolto Respimat 2.5microg/dose / 2.5microg/dose soln refill,R03AL06,Combi_2,SMI,121928
-2025,0302000C0BPABBF,Clenil Modulite 100micrograms/dose inhaler,R03BA01,ICS,MDI,1741281
-2025,0302000C0BPAABE,Clenil Modulite 50micrograms/dose inhaler,R03BA01,ICS,MDI,461956
-2025,0302000C0BTACBF,Soprobec 100micrograms/dose inhaler,R03BA01,ICS,MDI,360064
-2025,0302000C0BPACBV,Clenil Modulite 200micrograms/dose inhaler,R03BA01,ICS,MDI,334511
-2025,0302000C0BJABBF,Qvar 100 inhaler,R03BA01,ICS,MDI,213831
-2025,0302000C0BJAABE,Qvar 50 inhaler,R03BA01,ICS,MDI,109293
-2025,0302000C0BNAABU,Easyhaler Beclometasone 200micrograms/dose dry pdr inhaler,R03BA01,ICS,DPI,108017
-2025,0302000C0BTAABE,Soprobec 50micrograms/dose inhaler,R03BA01,ICS,MDI,73652
-2025,0302000C0AABFBF,Beclometasone 100micrograms/dose inhaler CFC free,R03BA01,ICS,MDI,70553
-2025,0302000K0BBAHAG,Pulmicort 200 Turbohaler,R03BA02,ICS,DPI,69838
-2025,0301011U0AAAHAH,Salmeterol 25micrograms/dose inhaler CFC free,R03AC12,LABA,MDI,45006
-2025,0301011U0BBAFAH,Serevent 25micrograms/dose Evohaler,R03AC12,LABA,MDI,27712
-2025,0301011E0BEAAAC,Formoterol Easyhaler 12micrograms/dose dry powder inhaler,R03AC13,LABA,DPI,16083
-2025,0301011U0BBAEAE,Serevent 50micrograms/dose Accuhaler,R03AC12,LABA,DPI,10311
-2025,0301011U0AAAEAE,Salmeterol 50micrograms/dose dry powder inhaler,R03AC12,LABA,DPI,7598
-2025,0301011E0BCABAC,Oxis 12 Turbohaler,R03AC13,LABA,DPI,6480
-2025,0301011E0AAADAD,Formoterol 12micrograms/dose inhaler CFC free,R03AC13,LABA,MDI,5795
-2025,0301011E0BDAAAD,Atimos Modulite 12micrograms/dose inhaler,R03AC13,LABA,MDI,5645
-2025,0301011U0BGAAAH,Soltel 25micrograms/dose inhaler CFC free,R03AC12,LABA,MDI,3830
-2025,0301011E0AAACAC,Formoterol 12micrograms/dose dry powder inhaler,R03AC13,LABA,DPI,3729
+2025,0301020Q0BBACAC,Spiriva Respimat 2.5microg/dose inhalation soln,R03BB04,Anticholinergic,SMI,621910
+2025,0301020Q0BCAAAD,Braltus 10microgram inhalation pdr caps with Zonda inhaler,R03BB04,Anticholinergic,DPI,410836
+2025,0301020Q0BBADAE,Spiriva Respimat 2.5microg/dose inhalation soln refill cart,R03BB04,Anticholinergic,SMI,404355
+2025,0301020T0BBAAAA,Incruse Ellipta 55micrograms/dose dry powder inhaler,R03BB07,Anticholinergic,DPI,303664
+2025,0301020Q0AAACAC,Tiotropium brom 2.5microg/dose soln for inhalation CFCfree,R03BB04,Anticholinergic,SMI,109555
+2025,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev,R03BB06,Anticholinergic,DPI,104293
+2025,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,82855
+2025,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free,R03BB01,Anticholinergic,MDI,79644
+2025,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair,R03BB05,Anticholinergic,DPI,71719
+2025,0301020Q0AAABAB,Tiotropium bromide 18microgram inhalation powder capsules,R03BB04,Anticholinergic,DPI,71082
+2025,0302000K0BDABAM,Symbicort 200/6 Turbohaler,R03AK07,Combi_1,DPI,1737463
+2025,0302000K0BDAAAL,Symbicort 100/6 Turbohaler,R03AK07,Combi_1,DPI,586952
+2025,0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,571223
+2025,0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,487066
+2025,0302000K0BIABAM,Fobumix Easyhaler 160microg / 4.5microg/dose dry pdr inh,R03AK07,Combi_1,DPI,447912
+2025,0302000V0BBAAAA,Relvar Ellipta 184microg/dose / 22microg/dose dry pdr inh,R03AK10,Combi_1,DPI,325664
+2025,0302000N0BCADBE,Seretide 50 Evohaler,R03AK06,Combi_1,MDI,262367
+2025,0302000N0BCAEBF,Seretide 125 Evohaler,R03AK06,Combi_1,MDI,255892
+2025,0302000K0BDACAU,Symbicort 400/12 Turbohaler,R03AK07,Combi_1,DPI,255121
+2025,0302000N0BCAFBG,Seretide 250 Evohaler,R03AK06,Combi_1,MDI,195749
+2025,0302000AABBAAAA,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,2476278
+2025,0302000Z0BBAAAA,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh,R03AL08,Combi_2,DPI,1593318
+2025,0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,R03AL03,Combi_2,DPI,1331736
+2025,0302000AABBACAC,Trimbow NEXThaler 88microg/5microg/9microg/dose dry pdr inh,R03AL09,Combi_2,DPI,584631
+2025,0302000AABBABAB,Trimbow 172microg/dose / 5microg/dose / 9microg/dose inh,R03AL09,Combi_2,MDI,536755
+2025,0302000Y0BBAAAA,Trixeo Aerosphere 5microg / 7.2microg / 160microg/dose inh,R03AL11,Combi_2,MDI,373607
+2025,0301040X0BBAAAA,Spiolto Respimat 2.5microg/dose/2.5microg/dose soln,R03AL06,Combi_2,SMI,193172
+2025,0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev,R03AL04,Combi_2,DPI,162125
+2025,0301040V0BBAAAA,Duaklir 340micrograms/dose / 12micrograms/dose Genuair,R03AL05,Combi_2,DPI,149696
+2025,0301040X0BBABAB,Spiolto Respimat 2.5microg/dose / 2.5microg/dose soln refill,R03AL06,Combi_2,SMI,133490
+2025,0302000C0BPABBF,Clenil Modulite 100micrograms/dose inhaler,R03BA01,ICS,MDI,1891960
+2025,0302000C0BPAABE,Clenil Modulite 50micrograms/dose inhaler,R03BA01,ICS,MDI,505117
+2025,0302000C0BTACBF,Soprobec 100micrograms/dose inhaler,R03BA01,ICS,MDI,394176
+2025,0302000C0BPACBV,Clenil Modulite 200micrograms/dose inhaler,R03BA01,ICS,MDI,363369
+2025,0302000C0BJABBF,Qvar 100 inhaler,R03BA01,ICS,MDI,232423
+2025,0302000C0BJAABE,Qvar 50 inhaler,R03BA01,ICS,MDI,118800
+2025,0302000C0BNAABU,Easyhaler Beclometasone 200micrograms/dose dry pdr inhaler,R03BA01,ICS,DPI,116628
+2025,0302000C0BTAABE,Soprobec 50micrograms/dose inhaler,R03BA01,ICS,MDI,81433
+2025,0302000C0AABFBF,Beclometasone 100micrograms/dose inhaler CFC free,R03BA01,ICS,MDI,76848
+2025,0302000K0BBAHAG,Pulmicort 200 Turbohaler,R03BA02,ICS,DPI,75844
+2025,0301011U0AAAHAH,Salmeterol 25micrograms/dose inhaler CFC free,R03AC12,LABA,MDI,48866
+2025,0301011U0BBAFAH,Serevent 25micrograms/dose Evohaler,R03AC12,LABA,MDI,30186
+2025,0301011E0BEAAAC,Formoterol Easyhaler 12micrograms/dose dry powder inhaler,R03AC13,LABA,DPI,17517
+2025,0301011U0BBAEAE,Serevent 50micrograms/dose Accuhaler,R03AC12,LABA,DPI,11235
+2025,0301011U0AAAEAE,Salmeterol 50micrograms/dose dry powder inhaler,R03AC12,LABA,DPI,8247
+2025,0301011E0BCABAC,Oxis 12 Turbohaler,R03AC13,LABA,DPI,7108
+2025,0301011E0AAADAD,Formoterol 12micrograms/dose inhaler CFC free,R03AC13,LABA,MDI,6291
+2025,0301011E0BDAAAD,Atimos Modulite 12micrograms/dose inhaler,R03AC13,LABA,MDI,6141
+2025,0301011U0BGAAAH,Soltel 25micrograms/dose inhaler CFC free,R03AC12,LABA,MDI,4164
+2025,0301011E0AAACAC,Formoterol 12micrograms/dose dry powder inhaler,R03AC13,LABA,DPI,4053
 2025,0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free,R03BC01,OTHER,MDI,4
 2025,0303010J0AAADAD,Nedocromil 2mg/dose inhaler CFC free,R03BC03,OTHER,MDI,3
 2025,0307000R0BBAAAA,Bronchitol 40mg inhalation powder capsules with two devices,R05CB16,OTHER,DPI,3
 2025,0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free,R03BC01,OTHER,MDI,2
-2025,0301011R0BIAFAP,Salamol 100micrograms/dose inhaler CFC free (Teva),R03AC02,SABA,MDI,6617129
-2025,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,SABA,MDI,4450056
-2025,0301011R0BEAIAP,Ventolin 100micrograms/dose Evohaler,R03AC02,SABA,MDI,2504558
-2025,0301011R0BWAABZ,Easyhaler Salbutamol sulfate 100micrograms/dose dry pdr inh,R03AC02,SABA,DPI,822593
-2025,0301011R0BIAGBU,Salamol 100micrograms/dose Easi-Breathe inhaler,R03AC02,SABA,MDI,297745
-2025,0301011R0AABUBU,Salbutamol 100micrograms/dose breath actuated inh CFC free,R03AC02,SABA,MDI,296883
-2025,0301011R0BEAHAQ,Ventolin 200micrograms/dose Accuhaler,R03AC02,SABA,DPI,280506
-2025,0301011V0AABBBB,Terbutaline 500micrograms/dose dry powder inhaler,R03AC03,SABA,DPI,139982
-2025,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,SABA,DPI,131626
-2025,0301011R0BWABAQ,Easyhaler Salbutamol sulfate 200micrograms/dose dry pdr inh,R03AC02,SABA,DPI,68726
+2025,0301011R0BIAFAP,Salamol 100micrograms/dose inhaler CFC free (Teva),R03AC02,SABA,MDI,7249621
+2025,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free,R03AC02,SABA,MDI,4856865
+2025,0301011R0BEAIAP,Ventolin 100micrograms/dose Evohaler,R03AC02,SABA,MDI,2731000
+2025,0301011R0BWAABZ,Easyhaler Salbutamol sulfate 100micrograms/dose dry pdr inh,R03AC02,SABA,DPI,903054
+2025,0301011R0BIAGBU,Salamol 100micrograms/dose Easi-Breathe inhaler,R03AC02,SABA,MDI,324713
+2025,0301011R0AABUBU,Salbutamol 100micrograms/dose breath actuated inh CFC free,R03AC02,SABA,MDI,323849
+2025,0301011R0BEAHAQ,Ventolin 200micrograms/dose Accuhaler,R03AC02,SABA,DPI,306944
+2025,0301011V0AABBBB,Terbutaline 500micrograms/dose dry powder inhaler,R03AC03,SABA,DPI,152250
+2025,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler,R03AC03,SABA,DPI,143751
+2025,0301011R0BWABAQ,Easyhaler Salbutamol sulfate 200micrograms/dose dry pdr inh,R03AC02,SABA,DPI,75022
