@@ -1,0 +1,2 @@
+min_period,max_period,n_months,n_years,n_months_span,n_years_span,no_gaps
+201612,202509,106,10,106,8.8,True
