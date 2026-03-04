@@ -1,0 +1,34 @@
+unit_dose_unit,BNF_CODE,BNF_NAME,vmp_name,total_items,total_qty,total_total_qty
+tablet,0403030Q0AAAAAA,Sertraline 50mg tablets,Sertraline 50mg tablets,14954668,101811979.0,486613092.0
+capsule,0103050P0AAAAAA,Omeprazole 20mg gastro-resistant capsules,Omeprazole 20mg gastro-resistant capsules,10951790,89086516.0,355236616.0
+,0410030C0AAAFAF,Methadone 1mg/ml oral solution sugar free,Methadone 1mg/ml oral solution sugar free,9116701,620136594.0,5663192733.0
+spoonful,0501013B0AAAKAK,Amoxicillin 250mg/5ml oral suspension,Amoxicillin 250mg/5ml oral suspension,1311768,42042600.0,189907200.0
+dose,1202010U0AAAAAA,Mometasone 50micrograms/dose nasal spray,Mometasone 50micrograms/dose nasal spray,590505,220245.0,755010.0
+sachet,0106040M0AAAAAA,Macrogol compound oral powder sachets NPF sugar free,Macrogol compound oral powder sachets NPF sugar free,285974,5168683.0,9999015.0
+pessary,0702020F0AAAFAF,Clotrimazole 500mg pessaries,Clotrimazole 500mg pessaries,242086,326651.0,607360.0
+suppository,0106020L0AAACAC,Glycerol 4g suppositories,Glycerol 4g suppositories,154868,1948786.0,2499182.0
+ampoule,1501041T0AAAAAA,Midazolam 10mg/2ml solution for injection ampoules,Midazolam 10mg/2ml solution for injection ampoules,136428,461004.0,1257324.0
+unit dose,1106000L0BCAAAB,Monopost 50micrograms/ml eye drops 0.2ml unit dose,Latanoprost 50micrograms/ml eye drops 0.2ml unit dose preservative free,66949,929807.0,3385228.0
+patch,0411000E0AAAFAF,Rivastigmine 4.6mg/24hours transdermal patches,Rivastigmine 4.6mg/24hours transdermal patches,55356,817758.0,2106804.0
+actuation,1202010Y0BBAAAA,Dymista 137micrograms/dose / 50micrograms/dose nasal spray,Fluticasone propionate 50micrograms/dose / Azelastine 137micrograms/dose nasal spray,46174,18562.0,69189.0
+pre-filled disposable injection,0208010W0AAAMAM,Tinzaparin sodium 4500units/0.45ml inj pre-filled syringes,"Tinzaparin sodium 4,500units/0.45ml solution for injection pre-filled syringes",27969,325260.0,793779.0
+applicator,0702010F0AAAAAA,Estriol 0.1% cream,Estriol 1mg/g vaginal cream with applicator,14919,162405.0,309015.0
+enema,0106040N0AAABAB,Phosphates enema (Formula B) 128ml standard tube,Phosphates enema (Formula B) 128ml standard tube,14036,50440.0,54648.0
+plaster,1502010J0AAELEL,Lidocaine 5% medicated plasters,Lidocaine 700mg medicated plasters,10032,171244.0,325491.0
+application,0105020D0AAACAC,Prednisolone 20mg/application foam enema,Prednisolone 20mg/application foam enema,8004,13072.0,15928.0
+vial,0402020ADAAAAAA,Aripiprazole 400mg inj vials,Aripiprazole 400mg powder and solvent for prolonged-release suspension for injection vials,5390,3240.0,10874.0
+cartridge,0601011A0BCABAB,Fiasp Penfill 100units/ml inj 3ml cartridges,Insulin aspart 100units/ml solution for injection 3ml cartridges,3381,10976.0,18846.0
+ml,0409020C0AAACAC,Trihexyphenidyl 5mg/5ml oral solution,Trihexyphenidyl 5mg/5ml oral solution,2735,932585.0,964790.0
+dressing,21300000850,Blephaclean wipes,Generic Lid-Care wipes,2520,141694.0,170404.0
+system,0703011A0BBAAAA,NuvaRing_Vag Delivery System,Ethinylestradiol 2.7mg / Etonogestrel 11.7mg vaginal delivery system,2127,2787.0,7178.0
+pastille,21210000012,Salivix pastilles,Artificial saliva pastilles,1906,107795.0,147533.0
+device,0703023L0BBAAAA,Mirena 20micrograms/24hours intrauterine device,Levonorgestrel 20micrograms/24hours intrauterine device,758,249.0,763.0
+tube,0401020K0AAAEAE,Diazepam 10mg/2.5ml rectal solution tube,Diazepam 10mg/2.5ml rectal solution tube,696,6816.0,7386.0
+lozenge,0410020B0AAAYAY,Nicotine 2mg lozenges sugar free,Nicotine 2mg lozenges sugar free,298,34110.0,34430.0
+pillule,190203000BBAAA0,Homeopathic preparation,Gelsemium sempervirens 30c homeopathic pillules,236,16778.0,17428.0
+piece,0410020B0BBAPBA,Nicorette Freshmint 2mg medicated chewing gum,Nicotine 2mg medicated chewing gum sugar free,121,27012.0,36847.0
+bag,0902021S0AACJCJ,Sodium chloride 0.9% infusion 100ml,Sodium chloride 0.9% infusion 100ml bags,65,1545.0,1545.0
+film,0410030B0BBADAD,Suboxone 2mg/500microgram sublingual films,Buprenorphine 2mg / Naloxone 500microgram sublingual films sugar free,48,1067.0,1339.0
+kit,010300000BBAAAA,Helicobacter Test INFAI breath test kit,Urea [13-C] 75mg oral powder breath test kit sugar free,43,35.0,46.0
+bottle,0902021S0AACJCJ,Sodium chloride 0.9% infusion 100ml,Sodium chloride 0.9% infusion 100ml polyethylene bottles,26,618.0,618.0
+cup,030902000BEDSAZ,Buttercup Bronchostop Cough syrup,Marshmallow root 830mg/15ml / Thyme 120mg/15ml oral suspension sugar free,1,120.0,120.0
